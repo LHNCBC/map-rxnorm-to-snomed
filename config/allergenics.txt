@@ -1,0 +1,3761 @@
+1006258	Apiospora montagnei allergenic extract
+1006297	Aspergillus niger var. niger allergenic extract
+1006310	Aspergillus repens allergenic extract
+1006340	cayenne pepper allergenic extract
+1006371	mango blossom pollen extract
+1006495	Indian wormwood sage pollen extract
+1006506	tall oat grass pollen extract
+1006510	barley malt allergenic extract
+1010879	bay leaf allergenic extract
+1010915	chocolate allergenic extract
+1010926	kiwi fruit allergenic extract
+1010932	leek allergenic extract
+1010954	licorice allergenic extract
+1010965	oregano allergenic extract
+1010971	peppermint allergenic extract
+1010999	nectarine allergenic extract
+1011017	poppy seed allergenic extract
+1011021	okra allergenic extract
+1011027	parsnip allergenic extract
+1011033	rhubarb allergenic extract
+1011043	horseradish allergenic extract
+1011049	chickpea allergenic extract
+1011060	lime allergenic extract
+1011066	macadamia nut allergenic extract
+1011404	mango allergenic extract
+1011412	tangerine allergenic extract
+1011418	watercress allergenic extract
+1011426	papaya allergenic extract
+1011627	sage leaf allergenic extract
+1011633	white pepper allergenic extract
+1012026	veal allergenic extract
+1012134	sour cherry allergenic extract
+1012140	wheat bran allergenic extract
+1012179	white kidney bean allergenic extract
+1012183	red kidney bean allergenic extract
+1012190	navy kidney bean allergenic extract
+1012890	Asarum europaeum extract
+1013913	scrub pine pollen extract
+1013944	water oak pollen extract
+1014191	cedar elm pollen extract
+1014340	Italian rye grass pollen extract
+1014360	longleaf pine pollen extract
+1014385	Bermuda grass smut allergenic extract
+1014391	Humicola grisea allergenic extract
+1014395	Microsporum audouinii allergenic extract
+1014399	microsporum canis allergenic extract
+1014447	yellow sweet clover pollen extract
+1014690	jack pine pollen extract
+1014707	redwood pollen extract
+1014711	sugarcane allergenic extract
+1014721	California black oak pollen extract
+1014731	Canadian bluegrass pollen extract
+1014735	white sweet clover pollen extract
+1014739	bitter dock pollen extract
+1014743	white (mexican) dock pollen extract
+1014749	absidia ramosa allergenic extract
+1014755	western black willow pollen extract
+1014762	balsam poplar pollen extract
+1014766	Jerusalem oak pollen extract
+1014774	cultivated rye grass pollen extract
+1021650	mistletoe (Viscum pini) extract
+1021677	cramp bark extract
+1041667	aspen bark extract
+1087368	oyster extract
+1087368	Oyster extract
+1091271	red wine extract
+1094116	creeping bentgrass pollen extract
+1094193	broomweed pollen extract
+1098118	cultivated barley pollen extract
+1098130	narrowleaf marshelder pollen extract
+1098183	Largemouth bass allergenic extract
+1098189	osage orange pollen extract
+1098200	Neurospora sitophila allergenic extract
+1098232	littleseed canary grass pollen extract
+1098247	Pacific salmon allergenic extract
+1098257	Douglas fir pollen extract
+1098274	smooth sumac pollen extract
+1098353	orris root allergenic extract
+1098455	Sudan grass pollen extract
+1098619	Trichophyton tonsurans allergenic extract
+1098716	lemon balm (melissa officinalis) extract
+1111024	valley oak pollen extract
+1112375	hops (Humulus lupulus) extract
+1112767	echinacea purpurea leaf extract
+1114883	turmeric extract
+1114883	Turmeric extract
+1114883	turmeric root extract
+1115283	aloe vera leaf gel extract
+1115313	peruvian bark extract
+1116977	American house dust mite allergenic extract
+1116979	European house dust mite allergenic extract
+1117083	weakleaf bur ragweed pollen extract
+11359	lutein extract
+114203	feverfew extract
+114500	danshen root extract
+1149980	lonicera japonica (japanese honysuckle) extract
+1192729	Colletotrichum coccodes allergenic extract
+1192968	Hypomyces perniciosus allergenic extract
+1192987	parakeet feather allergenic extract
+1192992	Microascus brevicaulis allergenic extract
+1192997	gliocladium allergenic extract
+1193003	Neurospora crassa allergenic extract
+120451	ma-huang extract
+1232311	Salix nigra bark extract
+1232405	Pyrethrum extract
+1232604	pale dock pollen extract
+1232630	tragacanth allergenic extract
+1232637	broadleaf cattail pollen extract
+1233723	bitter melon extract
+1233723	Bitter melon extract
+1237093	anise flavor extract
+124150	dandelion extract
+124151	allergen extract (obsolete)
+124151	allergenic extracts
+124323	grapefruit extract
+1244656	grape fruit extract
+1246101	pomegranate fruit extract
+1247643	royal jelly extract
+1249800	raspberry extract (rubus idaeus)
+125921	ginger root extract
+125929	bilberry extract
+125929	Bilberry extract
+125929	bilberry fruit extract
+125933	cranberry fruit extract
+126291	pumpkin seed extract
+126291	Pumpkin seed extract
+1292800	fennel seed extract
+1298849	masterwort extract (Imperatoria ostruthium)
+1298867	perilla leaf extract
+1299981	Siberian elm pollen extract
+1302306	English ivy extract
+1303790	vitex negundo extract
+1305532	tangerine peel extract
+1305545	Eucalyptus globulus leaf extract
+1305551	Carya laciniosa pollen extract
+1305553	Adenophora stricta root extract
+1305630	Zingiber cassumunar root extract
+1305719	Cucumber extract
+1305720	Chinese cinnamon extract
+1305725	Lime (Citrus) extract
+1305743	Ilex paraguariensis leaf extract
+1305745	Chamaecyparis obtusa leaf extract
+1305761	Saposhnikovia divaricata root extract
+1305762	Colocasia esculenta root extract
+1306058	Tribulus terrestris root extract
+1306108	silver birch pollen allergenic extract
+1306118	New Zealand green mussel extract
+1306119	Blackfoot abalone extract
+1306120	Platycladus orientalis seed extract
+1306122	Mycogone nigra allergenic extract
+1306128	aloe vera leaf extract
+1306167	Angelica dahurica root extract
+1306168	balsam fir leefy twig extract
+1306189	hordeum vulgare root extract
+1306191	beach strawberry extract
+1306193	Bellis Perennis flower extract
+1306194	Chamaemelum Nobile Flower extract
+1306195	Chenopodium quinoa seed extract
+1306197	Acorus gramineus root extract
+1306199	alfalfa seed extract
+1306203	Chysanthellum indicum top extract
+1306204	Chrysanthemum X morifolium flower extract
+1306205	CITRUS AURANTIUM FLOWER extract
+1306206	CITRUS AURANTIUM FRUIT RIND extract
+1306207	CITRUS MAXIMA FRUIT RIND extract
+1306208	CITRUS MAXIMA LEAF extract
+1306209	CITRUS MAXIMA SEED extract
+1306212	Arctostaphylos uva-ursi leaf extract
+1306212	bearberry leaf extract
+1306235	Equisetum arvense top extract
+1306351	Cetraria islandica subsp. islandica extract
+1306881	Absidia capillata allergenic extract
+1306882	redroot pigweed whole allergenic extract
+1306885	Momordica charantia fruit extract
+1306935	Brazillian pepper extract
+1307035	Lens culinaris fruit extract
+1307049	Litchi fruit extract
+1307150	oolong tea leaf extract
+1307314	robusta coffee bean extract
+1307539	Morus nigra root extract
+1307540	Viola odorata flowering top extract
+1307541	Magnolia virginiana flower extract
+1307542	Astrocaryum murumuru seed butter extract
+1307543	Agave tequilana leaf extract
+1307544	Bletilla striata bulb extract
+1307545	Morus alba stem extract
+1307547	Camellia japonica flower extract
+1307549	Cymbopogon citratus leaf extract
+1307550	Polygonatum odoratum root extract
+1307553	Filipendula ulmaria flower extract
+1307554	Artemisia capillaris flower extract
+1307556	Cornus officinalis fruit extract
+1307557	Mentha x rotundifolia leaf extract
+1307559	Matricaria chamomilla whole extract
+1307560	Cydonia oblonga seed extract
+1307561	Cucumaria sea cucumber extract
+1307564	Epilobium angustifolium flowering top extract
+1307566	Urtica urens leaf extract
+1307568	Rosa damascena flower extract
+1307570	Irvingia gabonensis seed extract
+1307572	Albizia julibrissin bark extract
+1307573	Angelica pubescens root extract
+1307574	Chenopodium album flower extract
+1307575	Sanguisorba minor root extract
+1307576	Alcea rosea flower extract
+1307577	Coptis japonica root extract
+1307578	Oenothera biennis leaf extract
+1307579	Urtica dioica root extract
+1307580	Salvia miltiorrhiza root extract
+1307581	Magnolia grandiflora bark extract
+1307582	Malva sylvestris leaf extract
+1307585	Thuja occidentalis bark extract
+1307586	Paris polyphylla root extract
+1307587	Withania somnifera leaf extract
+1307589	Cassia fistula fruit extract
+1307590	caper berry extract
+1307591	Lonicera dasystyla flower bud extract
+1307592	Ajuga turkestanica top extract
+1307593	Sophora flavescens root extract
+1307594	Cedrus atlantica bark extract
+1307595	Cola acuminata seed extract
+1307596	Equisetum arvense branch extract
+1307596	Equisetum arvense extract
+1307597	Selenicereus grandiflorus flower extract
+1307598	Glycyrrhiza inflata root extract
+1307599	Pelargonium graveolens flowering top extract
+1307600	Ipomoea nil seed extract
+1307601	Khaya senegalensis bark extract
+1307602	Morus australis root extract
+1307603	Moringa oleifera bark extract
+1307604	Malpighia emarginata seed extract
+1307605	Theobroma grandiflorum seed butter extract
+1307606	Avena sativa leaf extract
+1307607	Magnolia biondii bark extract
+1307609	Dendranthema indicum flower extract
+1307610	Acmella oleracea flower extract
+1307611	Dioscorea japonica root extract
+1307612	Phellodendron chinensis bark extract
+1307613	Oenothera biennis flowering top extract
+1307614	Platycodon grandiflorum root extract
+1307617	Duboisia leichhardtii leaf extract
+1307618	Larrea divaricata leaf extract
+1307631	Bambusa arundinacea leaf extract
+1307636	Hamamelis virginiana flower water extract
+1307637	Echinacea purpurea flowering top extract
+1307638	Lepidium meyenii root extract
+1307639	Schizonepeta tenuifolia flowering top extract
+1307640	Azadirachta indica leaf extract
+1307641	Borago officinalis seed extract
+1307642	Averrhoa carambola leaf extract
+1307643	Withania somnifera flower extract
+1307644	Eclipta prostrata leaf extract
+1307645	Aspalathus linearis leaf extract
+1307646	Pogostemon cablin top extract
+1307647	Quercus robur twig bark extract
+1307648	Annickia chlorantha bark extract
+1307649	Artemisia argyi leaf extract
+1307653	Prunus mume flower extract
+1307655	Curcuma longa leaf extract
+1307658	Thymus vulgaris leaf extract
+1307659	Ligusticum tenuissimum root extract
+1307660	Lycium chinense root bark extract
+1307661	Azadirachta indica bark extract
+1307663	Pinellia ternata root extract
+1307664	Angelica gigas root extract
+1307665	Prunus dulcis bark extract
+1307667	Pulsatilla koreana root extract
+1307668	Filipendula ulmaria leaf extract
+1307669	Arisaema erubescens root extract
+1307670	Persicaria tinctoria leaf extract
+1307671	Pinus tabuliformis bark extract
+1307673	Echinacea angustifolia leaf extract
+1307674	Actinidia polygama fruit extract
+1307675	asparagus cochinchinesis tuber extract
+1307677	Arctium lappa fruit extract
+1307678	Bambusa vulgaris whole extract
+1307687	Pueraria montana var. chinensis root extract
+1307690	Amaranthus caudatus seed extract
+1307692	Ononis campestris root extract
+1307696	Polygonatum multiflorum root extract
+1307697	Rubes nigrum seed extract
+1307699	Lawsonia inermis leaf extract
+1307701	Yucca schidigera root extract
+1307702	Musa X paradisiaca leaf extract
+1307704	Hypericum perforatum leaf extract
+1307706	Punica granatum flower extract
+1307707	Flickingeria fimbriata stem extract
+1307709	Dipteryx odorata seed extract
+1307711	Juglans nigra bark extract
+1307712	Morus alba root extract
+1307713	Kalopanax septemlobus bark extract
+1307714	Lilium candidum flower extract
+1307715	Aquilaria malaccensis stem extract
+1307716	Tilia cordata flower extract
+1307718	wine grape extract
+1307719	Atractylodes lancea root extract
+1307720	Ferula assa-foetida root extract
+1307721	white mulberry extract
+1307724	Myrciaria dubia seed extract
+1307726	Panax ginseng flower extract
+1307727	Canna indica root extract
+1307729	Paeonia suffruticosa root bark extract
+1307730	Matricaria recutita flowering top extract
+1307731	Paeonia lactiflora root extract
+1307733	Cucumber seed extract
+1307735	Cyathula officinalis root extract
+1307736	Bupleurum chinense root extract
+1307737	Potentilla erecta root extract
+1307738	Phragmites australis root extract
+1307739	Vaccinium angustifolium leaf extract
+1307740	Helianthus annuus seed wax extract
+1307741	Rapeseed sterol extract
+1307742	Cuscuta japonica seed extract
+1307743	Syzygium jambos leaf extract
+1307745	Nymphaea alba flower extract
+1307746	Lippia citriodora flower extract
+1307747	Hibiscus rosa-sinensis leaf extract
+1307749	Salix alba bark extract
+1307750	Scutellaria baicalensis root extract
+1307752	Hamamelis virginiana bark extract
+1307753	Lonicera japonica flower extract
+1307754	Cinnamomum camphora leaf extract
+1307755	Ilex aquifolium leaf extract
+1307756	Hamamelis virginiana top extract
+1307757	Ambrosia peruviana leaf extract
+1307760	Simmondsia chinensis seed wax extract
+1307763	Helianthus annuus seedcake extract
+1307767	lavender extract
+1307767	Lavender extract
+1307768	Coccinia grandis fruit extract
+1307769	fenugreek leaf extract
+1307777	Cyperus rotundus root extract
+1307782	Syringa vulgaris flower extract
+1307784	Carthamus tinctorius (safflower) oleosomes extract
+1307789	Saururus chinensis flower extract
+1307791	Lithospermum erythrorhizon root extract
+1307794	Panax japonicus root extract
+1307802	Corydalis bungeana flowering-fruiting top extract
+1307804	Hedychium coronarium root extract
+1307805	Litchi chinensis seed extract
+1307806	Artemisia umbelliformis flower extract
+1307807	ophiopogon japonicus root extract
+1307807	Ophiopogon japonicus root extract
+1307808	Isatis tinctoria root extract
+1307810	Quercus suber bark extract
+1307812	Plumeria rubra flower extract
+1307814	Perilla frutescens seed extract
+1307816	Magnolia acuminata flower extract
+1307817	Asarum sieboldii root extract
+1307818	Camellia sinensis root extract
+1307819	Hamamelis virginiana leaf water extract
+1307824	Senna alata leaf extract
+1307826	Camellia japonica leaf extract
+1307827	Coix lacryma-jobi var. ma-yuen seed extract
+1307828	Mangifera indica seed butter extract
+1307831	Coix lacryma-jobi seed extract
+1307832	Alpinia officinarum leaf extract
+1307834	Moringa oleifera leaf extract
+1307836	Melissa officinalis leaf extract
+1307837	Guazuma ulmifolia leaf extract
+1307838	Agave americana leaf extract
+1307839	Clematis vitalba leaf extract
+1307841	Maackia floribunda stem extract
+1307842	Actinidia chinensis seed extract
+1307844	Persea americana leaf extract
+1307846	Levant cotton seed extract
+1307848	Opuntia ficus-indica flower extract
+1307849	Camellia oleifera seed extract
+1307851	Prunus serotina bark extract
+1307852	Mentha aquatica leaf extract
+1307853	Magnolia officinalis bark extract
+1307854	Achyranthes bidentata root extract
+1307855	Piper kadsura stem extract
+1307856	Holarrhena pubescens bark extract
+1307857	Rhus glabra bark extract
+1307858	Morinda citrifolia leaf extract
+1307863	kukui nut extract
+1307866	Angelica sinensis root extract
+1307879	Jasminum officinale flower extract
+1307886	Lavandula angustifolia flower extract
+1307887	Hamamelis virginiana leaf extract
+1307942	Nymphaea caerulea flower extract
+1307943	Betula pubescens bark extract
+1307944	Sedum roseum root extract
+1307945	Gentiana lutea root extract
+1307946	cola nut extract
+1307947	Phellodendron amurense bark extract
+1307949	Saxifraga stolonifera leaf extract
+1307952	Azadirachta indica flower extract
+1307953	lesser galangal root extract
+1307954	Sanguisorba officinalis root extract
+1307955	Olea europaea leaf extract
+1307957	Mimosa tenuiflora bark extract
+1307960	Lonicera caprifolium flower extract
+1307961	Centella asiatica leaf extract
+1307964	Arnica cordifolia flower extract
+1307966	Vitis vinifera seed extract
+1307967	Filipendula ulmaria root extract
+1307969	Tamarind seed extract
+1307970	Verbascum densiflorum leaf extract
+1307971	Stevia rebaudiuna leaf extract
+1307974	Cnidium officinale root extract
+1307975	Paeonia suffruticosa root extract
+1307976	Notopterygium incisum root extract
+1307977	Nelumbo nucifera leaf extract
+1309199	aloe vera flower extract
+1309200	Angelica acutiloba Root extract
+1309203	Bixa orellana seed extract
+1309207	Borago officinalis Flower extract
+1309215	Hibiscus sabdariffa Flower extract
+1309220	rehmannia glutinosa root extract
+1309220	Rehmannia glutinosa root extract
+1309226	Chamomile extract
+1309228	Hypericum extract
+1309237	Hyssopus officinalis extract
+1309242	Solidago virgaurea pollen extract
+1309257	Vaccinium myrtillus leaf extract
+1309259	Yarrow flower extract
+1309260	Theobroma grandiflorum seed extract
+1309279	Withania somnifera root extract
+1309281	nettle extract
+1309281	Urtica dioica leaf extract
+1309284	Actaea cimicifuga root extract
+1309286	Angelica archangelica leaf extract
+1309287	Taraxacum officinale leaf extract
+1309288	Arnica chamissonis flower extract
+1309289	Calendula officinalis flower extract
+1309294	Prunella vulgaris flowering top extract
+1309296	Piscidia piscipula root bark extract
+1309309	Pinus strobus bark extract
+1309310	Oregano flowering top extract
+1309324	wormwood extract
+1309325	Notopterygium franhetii root extract
+1309326	Mentha piperita leaf extract
+1309326	peppermint leaf extract
+1309327	Mentha arvensis flowering top extract
+1309330	Melaleuca alternifolia leaf extract
+1309336	Manihot esculenta root extract
+1309350	Malva sylvestris flower extract
+1309351	Magnolia officinalis flower extract
+1309352	Magnolia grandiflora flower extract
+1309353	Ligusticum sinense root extract
+1309357	Leptospermum petersonii leaf oil extract
+1309358	Helichrysum Italicum Flowering Top extract
+1309361	Cnidium seed extract
+1309362	Hypericum Perforatum Flower extract
+1309369	Cotton Seed extract
+1309370	Plantago lanceolata leaf extract
+1309390	safflower extract
+1309391	sunflower seed extract
+1309392	Alpinia zerumbet leaf extract
+1309394	Ampelopsis japonica root extract
+1309395	Acorus calamus root extract
+1309397	Anacyclus pyrethrum root extract
+1309398	Aesculus hippocastanum bark extract
+1309401	Aframomum angustifolium seed extract
+1309403	Anogeissus leiocarpus bark extract
+1309405	Ardisia japonica stem extract
+1309406	Acer saccharum bark-sap extract
+1309407	Betula platyphylla var. japonica bark extract
+1309411	Artemisia princeps leaf extract
+1309412	Bupleurum falcatum root extract
+1309413	Asclepias tuberosa root extract
+1309414	Camellia japonica seed extract
+1309415	Carica papaya leaf extract
+1309417	Carex humilis root extract
+1309418	Centaurea cyanus flower extract
+1309419	Dioscorea collettii var. hypoglauca root extract
+1309420	Cupressus sempervirens seed extract
+1309421	Drynaria fortunei root extract
+1309422	Cymbopogon schoenanthus leaf extract
+1309423	Diospyros kaki leaf extract
+1309425	Epilobium angustifolium leaf extract
+1309426	Gardenia taitensis flower extract
+1309427	Gentiana macrophylla root extract
+1309428	Gentianella amarella flower extract
+1309429	Wasabi root extract
+1309431	Glehnia littoralis root extract
+1309432	Ilex pubescens root extract
+1309433	Imperata cylindrica root extract
+1309434	Lamium album flower extract
+1309435	Lapsana communis flowering top extract
+1309436	Lathyrus odoratus flower extract
+1309437	Lavandula stoechas flowering top extract
+1309438	Leontopodium alpinum flower extract
+1309439	Leontopodium alpinum flowering top extract
+1309440	Magnolia obovata bark extract
+1309441	Mahonia aquifolium root extract
+1309442	Moringa oleifera seed extract
+1309444	Morus alba bark extract
+1309445	Myrtus communis leaf extract
+1309446	Narcissus pseudonarcissus flower extract
+1309447	Nelumbo nucifera flower extract
+1309448	Nelumbo nucifera seed extract
+1309449	Oenothera biennis flower extract
+1309450	Oenothera biennis root extract
+1309451	Opuntia ficus-indica stem extract
+1309452	Piper methysticum root extract
+1309453	Platycladus orientalis leaf extract
+1309454	Plectranthus barbatus root extract
+1309456	Polygonum bistorta root extract
+1309457	Polygonum cuspidatum root extract
+1309458	Prunus armeniaca seed extract
+1309459	Salix alba leaf extract
+1309460	Salvia hispanica seed extract
+1309461	Sambucus nigra subsp. canadensis flowering top extract
+1309462	Saponaria officinalis root extract
+1309463	Saussurea costus root extract
+1309464	Fagus sylvatica flower bud extract
+1309467	Hottonia palustris flower extract
+1309468	Schinus molle bark extract
+1309469	Houttuynia cordata flowering top extract
+1309470	Simmondsia chinesis seed extract
+1309471	Sinapsis arvensis flowering-fruiting top extract
+1309472	Humulus lupulus stem extract
+1309473	Smilax aristolochiaefolia root extract
+1309474	Tagetes erecta flower extract
+1309475	Hydrangea arborescens root extract
+1309476	Tanacetum parthenium flower extract
+1309480	Tussilago farfara flower extract
+1309483	Ulmus procera flowering twig extract
+1309484	Ulmus rubra bark extract
+1309485	Vitis vinifera flowering top extract
+1309487	Machilus thunbergii bark extract
+1309488	Malva sylvestris flowering top extract
+1309489	Ocimum basilicum flowering top extract
+1309490	Panax ginseng root water extract
+1309493	Perilla frutescens leaf extract
+1309494	Persea americana seed butter extract
+1309495	Petiveria alliacea root extract
+1309496	Actaea spicata root extract
+1309497	Aesculus hippocastanum flower extract
+1309498	Aesculus hippocastanum leaf extract
+1309499	Agathosma betulina leaf extract
+1309500	Rorippa nasturtium-aquaticum flowering top extract
+1309501	Agrimonia eupatoria flower extract
+1309502	Rosa gallica flower extract
+1309504	Agrimonia eupatoria flowering top extract
+1309505	Rosmarinus officinalis flower extract
+1309506	Apocynum cannabinum root extract
+1309507	Rubus fruticosus leaf extract
+1309509	Ruscus aculeatus root extract
+1309510	Artemisia cina flower extract
+1309666	Cinchona bark extract
+1309667	Cinchona pubescens bark extract
+1309669	Ephedra distachya flowering twig extract
+1309670	sarsaparilla root extract
+1309670	Sarsaparilla root extract
+1309672	Artemisia maritima flower extract
+1309673	Toxicodendron pubescens leaf extract
+1309676	Bryonia alba root extract
+1309677	Delphinium staphisagria seed extract
+1309678	Strychnos nux-vomica seed extract
+1309681	Bambusa vulgaris leaf extract
+1309682	Veratrum album root extract
+1309683	Grindelia hirsutula flowering top extract
+1309684	Strophanthus hispidus seed extract
+1309685	Ruta graveolens flowering top extract
+1309686	Helianthus annuus flowering top extract
+1309690	Dioscorea villosa tuber extract
+1309690	wild yam root extract
+1309692	Strychnos ignatii seed extract
+1309694	Selenicereus grandiflorus stem extract
+1309695	Gelsemium sempervirens root extract
+1309697	Hamamelis virginiana root bark-stem bark extract
+1309699	Lactuca virosa leaf extract
+1309701	Jatropha curcas seed extract
+1309702	Avena sativa flowering top extract
+1309704	Justicia adhatoda leaf extract
+1309706	Ipomoea purga root extract
+1309710	Neopicrorhiza scrophulariiflora root extract
+1309711	Phytolacca americana root extract
+1309713	Ptelea trifoliata bark extract
+1309714	Croton tiglium seed extract
+1309716	Verbascum phlomoides flower extract
+1309717	Rhododendron aureum leaf extract
+1309719	Juniperus sabina leafy twig extract
+1309722	Alchemilla xanthochlora flowering top extract
+1309723	Inula helenium root extract
+1309727	Rosmarinus officinalis flowering top extract
+1309729	Argentina anserina flowering top extract
+1309735	Aristolochia clematitis root extract
+1309737	Veratrum viride root extract
+1309738	Cochlearia officinalis flowering top extract
+1309739	Centaurium erythraea flower extract
+1309743	Malus sylvestris flower extract
+1309745	Rosa canina flower extract
+1309746	Thuja plicata leaf extract
+1309748	Clematis vitalba top extract
+1309749	Calluna vulgaris flowering top extract
+1309750	Juglans cinerea branch bark-root bark extract
+1309751	Pueraria montana var. lobata root extract
+1309752	Iris germanica root extract
+1309753	Quercus robur flower extract
+1309754	Thuja occidentalis leafy twig extract
+1309757	Ceanothus americanus leaf extract
+1309758	Toxicodendron radicans leaf extract
+1309759	Chionanthus virginicus bark extract
+1309761	poison sumac extract
+1309761	Toxicodendron vernix leafy twig extract
+1309762	Nuphar luteum root extract
+1309763	Solidago virgaurea flowering top extract
+1309764	Krameria lappacea root extract
+1309766	Berberis vulgaris root bark extract
+1309767	Pteridium aquilinum root extract
+1309768	Astragalus nuttallii leaf extract
+1309770	Aesculus carnea flower extract
+1309771	Cinchona officinalis bark extract
+1309772	Citrullus colocynthis fruit pulp extract
+1309774	Clematis recta flowering top extract
+1309775	Calendula officinalis flowering top extract
+1309779	Baptisia tinctoria root extract
+1309780	Clerodendranthus spicatus leaf extract
+1309781	Sanicula europaea leaf extract
+1309782	Collinsonia canadensis root extract
+1309783	Eupatorium perfoliatum flowering top extract
+1309785	Gossypium herbaceum root bark extract
+1309786	Platycodon grandiflorum leaf extract
+1309788	Eucommia ulmoides bark extract
+1309789	Arum maculatum root extract
+1309793	Hawthorn leaf with flower extract
+1309794	Ceratostigma willmottianum flower extract
+1309795	Hedera helix leaf extract
+1309796	Tabebuia heterophylla bark extract
+1309798	Quebracho bark extract
+1309799	Ligusticum porteri root extract
+1309800	Arundo pliniana root extract
+1309803	Ligusticum sinense subsp. chuanxiong root extract
+1309805	Asclepias tuberosa flowering top extract
+1309806	Ligusticum tenuissimum leaf extract
+1309807	Cynanchum vincetoxicum root extract
+1309808	Ferula sumbul root extract
+1309809	Malus domestica flower extract
+1309810	Thuja occidentalis leaf extract
+1309811	Garcinia indica seed butter extract
+1309812	Aspidosperma quebracho-blanco bark extract
+1309813	Tsuga canadensis flower bud extract
+1309814	Astragalus propinquus root extract
+1309815	Betula pendula bark extract
+1309816	Prunus spinosa flower bud extract
+1309818	Carpinus betulus flowering top extract
+1309819	Betula pubescens leaf extract
+1309822	Cichorium intybus flower extract
+1309823	Tilia x europaea flower extract
+1309825	Tylophora indica root extract
+1309826	Medicago sativa leaf extract
+1309827	Morella cerifera root bark extract
+1309828	Angelica archangelica root extract
+1309829	Verbena officinalis flowering top extract
+1309830	Apocynum androsaemifolium root extract
+1309831	Ocimum americanum leaf extract
+1309832	Iris pallida root extract
+1309833	Aralia racemosa root extract
+1309928	Solidago canadensis flowering top extract
+1309929	Trifolium repens flower extract
+1309932	Daphne odora bark extract
+1309934	Frangula californica bark extract
+1309936	Castanea sativa flower extract
+1309937	Lathyrus sativas seed extract
+1309940	Fallopia multiflora root extract
+1309942	Plantago ovata seed extract
+1309943	Arnica angustifolia flower extract
+1309946	Mimulus guttatus flowering top extract
+1309947	Arnica montana root extract
+1309948	Quillaja saponaria bark extract
+1309949	Strychnos wallichiana bark extract
+1309950	Aletris farinosa root extract
+1309951	Abrus precatorius seed extract
+1309952	Veronica officinalis flowering top extract
+1309953	Prunus speciosa leaf extract
+1309954	Arisaema triphyllum root extract
+1309955	Viburnum prunifolium bark extract
+1309956	Vetiveria zizanioides root extract
+1309958	Camellia sinensis flower extract
+1309959	Alpinia galanga leaf extract
+1309960	Iberis amara seed extract
+1309961	Ilex aquifolium flowering top extract
+1309966	Cananga odorata flower extract
+1309968	Cardiospermum halicacabum flowering top extract
+1309969	Hemidesmus indicus root extract
+1309971	Robinia pseudoacacia bark extract
+1309973	Rubia tinctorum root extract
+1309979	passiflora incarnata flowering top extract
+1309981	raspberry leaf extract
+1309981	Rubus idaeus leaf extract
+1309983	Symplocarpus foetidus root extract
+1309985	Taraxacum palustre root extract
+1309986	Fraxinus excelsior leaf extract
+1309987	Eupatorium cannabinum extract
+1309988	Morus alba leaf extract
+1309989	celery seed extract
+1309989	Celery seed extract
+1309990	Helleborus niger root extract
+1309991	Thuja occidentalis root extract
+1309992	Fumaria officinalis flowering top extract
+1309993	Ulmus davidiana root extract
+1309994	Carpinus betulus flower extract
+1309996	Fraxinus excelsior bark extract
+1309997	Cedrelopsis grevei bark extract
+1309999	Ganoderma lucidum stem extract
+1310000	Picea abies flower bud extract
+1310002	Hippomane mancinella fruiting leafy twig extract
+1310003	Viscum album leaf extract
+1310004	Prunus persica seed extract
+1310005	Plantago major leaf extract
+1310006	Bromus ramosus flower extract
+1310007	Aralia hispida root extract
+1310008	Hibiscus rosa-sinensis flowering top extract
+1310009	Prunus persica flower extract
+1310013	Dalbergia pinnata root extract
+1310014	Mandragora officinarum root extract
+1310015	Marsdenia condurango bark extract
+1310016	Rosa damascena flowering top extract
+1310017	Prunus laurocerasus leaf extract
+1310018	Anamirta cocculus seed extract
+1310019	Prunus persica leaf extract
+1310021	Crataegus monogyna flower extract
+1310022	Styphnolobium japonicum root extract
+1310023	Cynanchum vincetoxicum leaf extract
+1310024	Comocladia dentata bark-leaf extract
+1310025	Castanea sative leaf extract
+1310029	Senna alexandrina seed extract
+1310031	Nerium oleander leaf extract
+1310032	Turnera diffusa leafy twig extract
+1310033	Pimpinella saxifraga root extract
+1310034	Magnolia liliiflora flower extract
+1310035	Solanum dulcamara stem extract
+1310036	Tsuga canadensis bark extract
+1310037	Prunus serrulata flower extract
+1310039	Trifolium pratense flower extract
+1310040	millet extract
+1310040	Millet extract
+1310041	Citrus junos seed extract
+1310042	Toxicodendron diversilobum leaf extract
+1310043	Cicuta virosa root extract
+1310045	Larix decidua flowering top extract
+1310046	sesame seed extract
+1310048	Helichrysum italicum flower extract
+1310049	Peumus boldus leaf extract
+1310050	stillingia sylvatica extract
+1310050	Stillingia sylvatica root extract
+1310051	Solanum dulcamara flower extract
+1310052	Nymphaea odorata root extract
+1310055	Morus alba root bark extract
+1310056	Jacaranda caroba flower extract
+1310057	Teucrium scorodonia flowering top extract
+1310063	Frangula alnus bark extract
+1310065	Rheum officinale root extract
+1310066	Matricaria recutita leaf extract
+1310067	Punica granatum seed extract
+1310068	Trichosanthes cucumerina seed extract
+1310069	Hypoxis hemerocallidea root extract
+1310071	Aconitum carmichaelii root extract
+1310072	Cuscuta chinensis seed extract
+1310073	Salix alba flowering top extract
+1310075	Dipsacus asper root extract
+1310076	Physostigma venenosum seed extract
+1310078	Justicia gendarussa leaf extract
+1310079	Lespedeza capitata flowering top extract
+1310080	Plantago major seed extract
+1310081	Pilocarpus jaborandi leaf extract
+1310082	Trichosanthes kirilowii root extract
+1310083	Eleutherococcus nodiflorus root bark extract
+1310084	Pinus sylvestris flowering top extract
+1310085	Entada phaseoloides leaf extract
+1310087	Polygala senega root extract
+1310088	Eriobotrya japonica leaf extract
+1310091	Syzygium cumini seed extract
+1310093	Haberlea rhodopensis leaf extract
+1310094	Lophatherum gracile leaf extract
+1310098	Kaempferia galanga root extract
+1310099	Podophyllum peltatum root extract
+1310100	Populus tremula flowering top extract
+1310101	Paeonia officinalis root extract
+1310102	Agrostis gigantea top extract
+1310103	Trillium erectum root extract
+1310105	Citrus bergamia leaf extract
+1310106	Populus tremuloides bark extract
+1310107	Pinus densiflora bark extract
+1310108	Populus tremuloides leaf extract
+1310110	Scleranthus annuus flowering top extract
+1310111	Amanita muscaria var. muscaria fruiting body extract
+1310112	Sempervivum tectorum leaf extract
+1310113	Paulownia tomentosa leaf extract
+1310115	ornithogalum umbellatum flowering top extract
+1310117	Citrus aurantiifolia flower extract
+1310119	Myosotis sylvatica flowering top extract
+1310120	Berberis vulgaris root extract
+1310126	Bacopa monniera leaf extract
+1310128	Coffea arabica seed, roasted, extract
+1310131	Viscum album fruit extract
+1310133	Onosmodium virginianum whole extract
+1310134	Elymus repens root extract
+1310140	Glechoma hederacea extract
+1310141	Epimedium grandiflorum flowering top extract
+1310148	Wyethia helenioides root extract
+1310150	Papaver rhoeas flower extract
+1310151	Symphytum tuberosum root extract
+1310152	Dactylis glomerata top extract
+1310154	Syzygium jambos seed extract
+1310155	Zanthoxylum americanum bark extract
+1310157	Jateorhiza calumba root extract
+1310159	Juglans regia flowering top extract
+1310162	Chrysanthellum indicum subsp. afroamericanum extract
+1310163	Kalmia angustifolia leaf extract
+1310164	Centella asiatica extract
+1310166	Pelargonium sidoides root extract
+1310167	Tabebuia impetiginosa bark extract
+1310168	Quassia amara wood extract
+1310173	Rhus glabra top extract
+1310183	Rumex crispus top extract
+1310189	Juniperus communis fruit extract
+1310203	Ledum palustre twig extract
+1310213	American elderberry extract
+1310215	Ruta graveolens whole extract
+1310217	Solanum nigrum top extract
+1310220	Aconitum napellus extract
+1310227	Piper cubeba fruit extract
+1310229	Ecballium elaterium fruit extract
+1310248	Berberis vulgaris fruit extract
+1310249	ox bile extract
+1310249	Ox bile extract
+1310266	Anemone nemorosa extract
+1310279	Polygonum aviculare top extract
+1310280	Acorus calamus extract
+1310281	Scomberomorus cavalla extract
+1310282	Trillium erectum extract
+1310285	Gaultheria procumbens top extract
+1310287	Luffa acutangula fruit extract
+1310339	Cyclamen purpurascens tuber extract
+1310350	Datura stramonium extract
+1310519	Limonia acidissima wood extract
+1311039	Amanita muscaria extract
+1311041	Calvatia gigantea extract
+1311044	Epimedium grandiflorum top extract
+1311047	Immature Juglans regia fruit rind extract
+1311050	Oenanthe aquatica fruit extract
+1311052	Quercus robur nut extract
+1311054	Tanacetum vulgare top extract
+1311057	Lycopodium clavatum spore extract
+1311060	Mucuna pruriens fruit trichome extract
+1311063	Giant puffball extract
+1311066	Spongia officinalis skeleton extract
+1311079	Sanguinaria canadensis extract
+1311092	Momordica balsamina immature fruit extract
+1311096	Viscum album fruiting top extract
+1311100	Symphoricarpos albus fruit extract
+1311101	Sanicula europaea extract
+1311121	Pseudognaphalium obtusifolium extract
+1311122	Triticum aestivum extract
+1311125	Myrtus communis top extract
+1311127	Ascophyllum nodosum extract
+1311133	Larrea tridenta top extract
+1311143	Aji pepper extract
+1311148	Lycopus virginicus extract
+1311152	Hyoscyamus niger extract
+1311154	Pulsatilla patens extract
+1311188	Pulsatilla vulgaris extract
+1311197	Laricifomes officinalis fruiting body extract
+1311246	Raphanus sativa extract
+1311289	lactuca virosa extract
+1311289	Lactuca virosa extract
+1311302	Ononis campestris extract
+1311305	Taraxacum officinale whole extract
+1311310	Primula veris extract
+1311318	Lonicera xylosteum fruit extract
+1311368	Plantago major extract
+1311374	Gardenia jasminoides fruit extract
+1311376	Chamaemelum nobile extract
+1311398	Lobelia spicata leaf extract
+1311399	Drimia maritima bulb extract
+1311406	Sorghum bicolor pollen extract
+1311410	maitake extract
+1311410	maitake mushroom extract
+1311411	Anemone americana extract
+1311477	Chondrus crispus extract
+1311479	Frankincense extract
+1311497	Melissa officinalis extract
+1311501	Rosa canina fruit extract
+1311508	Origanum vulgare subsp. hirtum flower extract
+1311509	Paullinia cupana seed extract
+1311510	Petroselinum crispum root extract
+1311511	Peucedanum ostruthium leaf extract
+1311512	Pfaffia paniculata root extract
+1311529	Coffea arabica fruit extract
+1311531	European elderberry extract
+1311538	Angelica keiskei top extract
+1311541	Aronia melanocarpa fruit extract
+1311543	Hibiscus sabdariffa calyx extract
+1311546	Hippophae rhamnoides fruit extract
+1311547	Hordeum vulgare top extract
+1311551	Lilium candidum bulb extract
+1311557	Benincasa hispida fruit extract
+1311561	Ocimum tenuiflorum top extract
+1311562	Bidens bipinnata top extract
+1311573	Citrus aurantium fruit extract
+1311577	Crataegus monogyna fruit extract
+1311579	Tribulus terrestris fruit extract
+1311580	Cullen corylifolium fruit extract
+1311581	Zanthoxylum piperitum fruit pulp extract
+1311584	Cymbopogon schoenanthus top extract
+1311590	Forsythia suspensa fruit extract
+1311591	Fritillaria przewalskii bulb extract
+1311595	Garcinia cambogia fruit extract
+1311596	Gleditsia sinensis fruit extract
+1311598	Hamamelis virginiana top water extract
+1311601	Hedera helix top extract
+1311605	Codium tomentosum extract
+1311608	Hovenia dulcis fruit extract
+1311610	Inonotus obliquus fruiting body extract
+1311612	Ipomoea purpurea top extract
+1311615	Kigelia africana fruit extract
+1311627	Limonium vulgare flowering top extract
+1311630	Lowbush blueberry extract
+1311632	Lycium barbarum fruit extract
+1311635	Lycium chinense fruit extract
+1311636	Mahonia aquifolium fruiting top extract
+1311641	Morinda citrifolia fruit extract
+1311643	Morus nigra fruit extract
+1311645	Myrciaria dubia fruit extract
+1311646	Narcissus tazetta bulb extract
+1311648	Panax ginseng fruit extract
+1311651	Passiflora incarnata fruit extract
+1311653	Perilla frutescens fruit extract
+1311654	Phyllanthus emblica fruit extract
+1311656	Phyllanthus niruri top extract
+1311658	Pomegranate fruit rind extract
+1311663	Prunus mume fruit extract
+1311664	Prunus serotina fruit extract
+1311665	Brassica rapa var. rapa extract
+1311666	Pyracantha fortuneana fruit extract
+1311667	Rosa multiflora fruit extract
+1311668	Rosa roxburghii fruit extract
+1311671	Rubus chamaemorus fruit extract
+1311674	Sapindus mukorossi fruit extract
+1311675	Schisandra chinensis fruit extract
+1311681	Scutellaria lateriflora top extract
+1311682	Star anise fruit extract
+1311683	Terminalia chebula fruit extract
+1311684	Tetradium ruticarpum fruit extract
+1311685	Vaccinium myrtillus fruiting top extract
+1311686	Vitex trifolia fruit extract
+1311687	Xanthium strumarium fruit extract
+1311688	Zanthoxylum armatum var. armatum fruit extract
+1311817	cultivated mushroom extract
+1312084	Yucca glauca root extract
+1312085	Convallaria majalis bulb extract
+1312369	Tussilago farfara extract
+1312371	Thujopsis dolabrata whole extract
+1312372	Thujopsis dolabrata leafy twig extract
+1312377	Magnolia kobus bark extract
+1312378	Rubus chamaemorus seed extract
+1312380	Atropa belladonna fruiting top extract
+1312382	Quercus rubra bark extract
+1312383	Quercus alba extract
+1312539	Aloe vera whole extract
+1312541	Aniba rosaeodora wood extract
+1312542	Arctium lappa whole extract
+1312544	Bidens bipinnata whole extract
+1312579	Filipendula ulmaria whole extract
+1312593	garden cress sprout extract
+1312614	Ipomoea mauritiana tuber extract
+1312622	Ligusticum wallichii whole extract
+1312717	Phellinus linteus mycelium extract
+1312722	dulse extract
+1312724	Tilia cordata wood extract
+1312728	Schinus terebinthifolius whole extract
+1312732	Torreya nucifera whole extract
+1313045	Glycyrrhiza glabra leaf extract
+1313180	reishi mushroom extract
+1313183	moth bean extract
+1313225	Artemisia abrotanum whole extract
+1313230	Corydalis yanhusuo tuber extract
+1313308	Allium cepa whole extract
+1313342	Fagus sylvatica nut extract
+1313685	Stevia rebaudiana whole extract
+1313686	Saponaria officinalis whole extract
+1313687	Eleutherococcus sessilflorus whole extract
+1313688	Moschus moschiferus whole extract
+1313689	Solidago canadensis whole extract
+1313690	Eupatorium japonicum whole extract
+1313691	Nasturtium officienale whole extract
+1313692	red pepper extract
+1313734	Arisaema dracontium root extract
+1313750	Geranium robertianum extract
+1313764	annatto extract
+1313973	Viscum album whole extract
+1314197	Phellinus linteus whole extract
+1314199	Piper methysticum whole extract
+1314222	Taxus baccata fruit extract
+1314224	Santalum album seed extract
+1314226	Syringa vulgaris whole extract
+1314228	Musa basjoo whole extract
+1314238	Vaccinium vitis-idaea leaf extract
+1314244	Avena sativa whole extract
+1314245	Lapsana communis whole extract
+1314247	Phytolacca americana fruit extract
+1314257	Juniperus virginiana twig extract
+1314262	Achyranthes japonica whole extract
+1314265	Arabidopsis thaliana extract
+1314267	Asclepias quadrifolia whole extract
+1314299	garden lady's mantle extract
+1314302	Larix sibirica wood extract
+1314309	Ocimum basilicum whole extract
+1314311	Halimeda opuntia extract
+1314313	Sisymbrium officianale whole extract
+1314318	Selaginella tamariscina extract
+1314320	oregano leaf extract
+1314321	Caulophyllum robustum root extract
+1314323	Buddleja davidii whole extract
+1314332	Bambusa vulgaris top extract
+1314386	pseudopterogorgia elisabethae extract
+1314582	Dryopteris crassirhizoma whole extract
+1314586	Carthamus tinctorius seedcake extract
+1314587	Cardamom extract
+1314591	Juniperus virginiana allergenic extract
+1314592	Streptomyces griseus allergenic extract
+1314594	lemon peel extract
+1314595	Agrimonia eupatoria extract
+1314597	rosemary extract
+1314656	radish extract
+1314843	Capsicum annuum whole extract
+1314844	Corallina officinalis extract
+1314850	Digitalis purpurea whole extract
+1314853	Elettaria cardamomum whole extract
+1314854	Hamamelis virginiana whole extract
+1314855	Mentha arvensis leaf extract
+1314926	Lycoperdon utriforme fruiting body extract
+1314927	Salsola tragus pollen extract
+1315107	Argeratina aromatica root extract
+1315113	cotton fiber extract
+1315115	egg extract
+1315116	eggplant extract
+1315118	green bell pepper extract
+1315124	white rice extract
+1318231	Chimaphila umbellata extract
+1318233	Vinca minor extract
+1318234	Xerophyllum asphodeloides extract
+1318235	Comfrey leaf extract
+1318236	Achyrocline satureioides extract
+1318237	Xanthium extract
+1319268	Anthoxanthum odoratum extract
+1319885	black walnut leaves extract
+1319902	white oak bark extract
+1320405	Helianthemum canadense extract
+1320407	Anisum extract
+1320409	Spigelia marilandica root extract
+1320410	Centaurea benedicta extract
+1320411	Aquilegia vulgaris extract
+1322526	Persimmon extract
+1322547	Cynara scolymus leaf extract
+1322548	Chamaelirium luteum root extract
+1322552	Angostura bark extract
+1322554	Mercurialis perennis extract
+1324594	Ulex europaeus flower extract
+1324597	Juglans regia leaf extract
+1326077	Bellis perennis extract
+1326503	Poa pratensis top extract
+1328285	Ahnfeltiopsis concinna extract
+1328307	Ranunculus bulbosus extract
+1328308	Alpine strawberry extract
+1328309	Luffa operculata fruit extract
+1328310	Ornithogalum umbellatum extract
+1328313	Thymus serpyllum extract
+1328315	Porphyridium purpureum extract
+1330087	Hedera helix flowering twig extract
+1330088	Spongilla lacustris extract
+1330089	Okoubaka aubrevillei bark extract
+1330090	Scrophularia nodosa extract
+1330091	Sedum acre extract
+1330093	Packera aurea extract
+1330284	Aconitum napellus root extract
+1331688	Agarum clathratum extract
+1331702	Solanum dulcamara top extract
+1331704	Conyza canadensis extract
+1331705	Botryoglossum platycarpum extract
+1331706	Olea europaea flower extract
+1332872	Equisetum hyemale extract
+1333213	Iris versicolor root extract
+1333265	Chelone glabra extract
+1333267	Lemna minor extract
+1334747	bladderwrack extract
+1334747	Fucus vesiculosus extract
+1334750	Verbascum thapsus extract
+1334930	Mentha piperita extract
+1335893	Curcuma zedoria root extract
+1336264	Chimaphila maculata extract
+1336265	Bryonia dioica root extract
+1336266	Anagallis arvensis extract
+1336269	Gratiola officinalis extract
+1337633	Euphorbia lathyris extract
+1337634	Lomatium dissectum root extract
+1337635	Oxalis montana leaf extract
+1337637	Habanero extract
+1338933	Sorghum extract
+1338934	Drosera anglica extract
+1338937	Physalis angulata extract
+1339883	Collinsonia extract
+1340181	Smilax regelii root extract
+1340183	chondrodendron tomentosum root extract
+1340185	Lilium lancifolium whole flowering extract
+1341384	Artemisia Vulgaris Root extract
+1341385	Teucrium marum extract
+1342455	Eriodictyon californicum leaf extract
+1342487	Caulophyllum thalictroides root extract
+1342489	Fucus serratus extract
+1342490	Chenopodium ambrosioides extract
+1342491	Ballota foetida extract
+1342492	Yucca filamentosa extract
+1342493	Glycyrrhiza uralensis extract
+1342649	Adonis vernalis extract
+1343346	comfrey root extract
+1343597	Cypripedium parvifolum root extract
+1344626	Lupinus albus seed extract
+1344641	Convallaria majalis extract
+1344643	Sambucus nigra flower extract
+1344644	Elymus repens top extract
+1344798	Lilium lancifolium flowering top extract
+1345677	Rumex crispus root extract
+1345678	Galium aparine extract
+1345680	Lilium lancifolium bulb extract
+1345681	Jacobaea maritima extract
+1346616	Caltha palustris extract
+1346618	Galphimia glauca flowering top extract
+1346619	Geranium maculatum root extract
+1347557	Ambrosia artemisiifolia extract
+1347560	Mahonia aquifolium root bark extract
+1347561	Onosmodium virginianum root extract
+1347563	Melilotus officinalis top extract
+1347564	Euphorbia hirta extract
+1348449	Myosotis arvensis extract
+1348450	Ailanthus altissima flowering twig extract
+1348451	Asclepias curassavica extract
+1348452	Impatiens glandulifera flower extract
+1348454	Aconitum ferox root extract
+1350209	Frangula purshiana bark extract
+1350211	Phleum pratense top extract
+1350212	Star anise extract
+1350999	Daphne mezereum bark extract
+1351000	Aethusa cynapium extract
+1351002	Leonurus cardiaca extract
+1351003	Galium odoratum extract
+1351786	Betula pendula leaf extract
+1351787	Schoenocaulon officinale seed extract
+1351789	castorbean seed extract
+1351897	Parietaria officinalis extract
+1352033	Fagopyrum esculentum extract
+1352501	Evernia prunastri extract
+1352512	Abelmoschus moschatus seed extract
+1352519	Nasturtium officinale extract
+1352521	Helianthemum nummularium flower extract
+1353217	Nutmeg extract
+1353219	Pseudognaphalium luteoalbum leaf extract
+1353220	Atropa belladonna root extract
+1353221	Epifagus virginiana extract
+1353222	Ammi visnaga fruit extract
+1353881	Hedeoma pulegioides extract
+1353883	Prunus cerasifera flower extract
+1353884	Rhus aromatica root bark extract
+1353885	Euphrasia stricta extract
+1353886	Petroselinum crispum extract
+1353887	Dieffenbachia seguine extract
+1353888	Lobaria pulmonaria extract
+1353891	apricot extract
+1354504	sage extract
+1354526	Punica granatum root bark extract
+1355184	Colchicum autumnale bulb extract
+1355185	Fomitopsis pinicola fruiting body extract
+1355405	Origanum majorana extract
+1355807	UNDARIA PINNATIFIDA extract
+1355818	Ranunculus Ficaria extract
+1355831	Clematis vitalba flower extract
+1355832	Dryopteris filix-mas root extract
+1355833	Passiflora incarnata flower extract
+1356126	Bryonia alba whole extract
+1356130	simaba cedron seed extract
+1356143	Saccharina latissima extract
+1356480	Luffa operculata whole extract
+1356482	Actinidia chinensis whole extract
+1356492	Sapindus mukorossi fruit rind extract
+1356679	Garcinia mangostana fruit rind extract
+1356680	Camellia sinensis whole extract
+1356686	Hippophae rhamnoides whole extract
+1356700	Cucumis melo var. cantalupensis whole extract
+1356704	Saussurea gossipiphora extract
+1356705	Tabebuia impetiginosa whole extract
+1356708	Leucojum aestivum bulb extract
+1356714	Thermus thermophilus extract
+1357998	Aesculus glabra nut extract
+1357999	Amaranthus viridis leaf extract
+1358001	Gaultheria procumbens leaf extract
+1358173	Galanthus nivalis seed extract
+1358176	Gentiana urnula flower extract
+1358335	lemon balm leaf extract
+1358474	Berberis vulgaris whole extract
+1358475	Ceanothus americanus whole extract
+1358476	Cherry plum extract
+1358477	Cistus incanus whole extract
+1358478	Impatiens balsamina leaf extract
+1358479	Platostoma chinensis whole extract
+1358480	Uncaria tomentosa leaf extract
+1358481	Vitis vinifera whole extract
+1358482	Clematis chinensis root extract
+1358491	sugarcane extract
+1358846	Alaria esculenta extract
+1358860	Sesame extract
+1358886	Zanthoxylum schinifolium whole extract
+1358887	Euonymus alatus whole extract
+1358888	Euterpe oleracea whole extract
+1358889	Epimedium grandiflorum whole extract
+1358890	Tremella fuciformis fruiting body extract
+1358891	Thuja occidentalis whole extract
+1358892	Syzygium aromaticum whole extract
+1358893	Solanum nigrum whole extract
+1358895	Dianthus chinensis whole extract
+1358896	Forsythia suspensa whole extract
+1358897	grapefruit peel extract
+1358898	Portulaca oleracea whole extract
+1358899	Houttuynia cordata whole extract
+1358900	Poncirus trifoliata fruit extract
+1358901	kiwi fruit extract
+1358954	Lilium lancifolium whole extract
+1358956	Anacardium occidentale fruit extract
+1358958	Citrullus colocynthis fruit extract
+1358959	Lonicera confusa whole extract
+1358960	Cupressus sempervirens leaf extract
+1358961	Ononis repens whole extract
+1358962	Maclura tricuspidata whole extract
+1358963	Nardostachys chinensis whole extract
+1360622	Eclipta prostrata whole extract
+1360623	Platycladus orientalis pollen extract
+1360624	Sanguisorba officinalis leaf extract
+1360625	Tripterygium wilfordii root extract
+1360628	Rumex crispus whole extract
+1360629	Zanthoxylum bungeanum fruit extract
+1361461	Atropa belladona whole extract
+1361463	Tylophora indica whole extract
+1361491	Bidens tripartita flowering top extract
+1361660	Picrasma quassioides wood extract
+1362688	shiitake mushroom extract
+1362717	Chrysanthemum indicum extract
+1362756	broccoli seed extract
+1362785	nettle root extract
+1362813	Acacia decurrens extract
+1363430	Atropa belladonna whole extract
+1363437	lime peel extract
+1363443	muskmelon extract
+1363468	Rhodomyrtus tomentosa fruit extract
+1363469	Vachellia farnesiana flower extract
+1363561	Amaranthus hybridus pollen extract
+1363562	Rumex acetosa whole extract
+1363563	Trifolium repens pollen extract
+1363603	Dilsea carnosa extract
+1363609	Hypnea musciformis extract
+1363610	melon extract
+1363624	Pummelo extract
+1363627	Asparagopsis armata extract
+1363729	Eucalyptus globulus whole extract
+1363730	Sambucus nigra whole extract
+1363985	Actinidia chinensis root extract
+1364291	lemon extract
+1364291	Lemon extract
+1364403	Irvingia gabonensis seed butter extract
+1364404	long pepper extract
+1364406	malpighia glabra fruit extract
+1364407	Viola odorata leaf extract
+1364986	Aconitum kusnezoffi root extract
+1364987	Carica papaya whole extract
+1364988	Ficus carica whole extract
+1364989	Rosa centifolia flower extract
+1364990	Rosmarinus officinalis whole extract
+1364991	Trifolium pratense leaf extract
+1365706	Ligusticum wallichii root extract
+1365707	Panax notoginseng root extract
+1365708	Zanthoxylum nitidum root extract
+1365709	Asarum heterotropoides var. mandshuricum root extract
+1366113	Hura crepitans sap extract
+1366320	Angelica biserrata root extract
+1366321	Bambusa textilis stem extract
+1366322	Ceratonia siliqua whole extract
+1366324	Citrus junos fruit extract
+1366326	Glycine max whole extract
+1366328	Orchis mascula whole extract
+1366329	Oryza sativa whole extract
+1366330	Pinus palustris leaf extract
+1366737	Limonium gerberi flowering top extract
+1367123	Backhousia citriodora leaf extract
+1367305	Sorbus aucuparia fruit extract
+1367391	Rhamnus cathartica fruit extract
+1367399	Symphytum uplandicum leaf extract
+1367493	Cocos nucifera whole extract
+1367496	Pinus densiflora root extract
+1367497	Plantago asiatica extract
+1367687	Zanthoxylum bungeanum fruit rind extract
+1368151	Chelidonium majus root extract
+1368205	Beta vulgaris extract
+1368206	Lentinula edodes mycelium extract
+1368325	Teucrium marum top extract
+1368326	Verbascum densiflorum flowering top extract
+1368327	Galphimia glauca whole extract
+1368328	Ambrosia psilostachya top extract
+1368332	Helianthus annuus sprout extract
+1368337	Petasites japonicus root extract
+1368338	Phoenix dactylifera seed extract
+1368339	Phragmites australis whole extract
+1368342	prickly pear fruit extract
+1368343	Porphyra umbilicalis extract
+1368357	Aspergillus nidulans allergenic extract
+1368361	Solanum lycopersicum extract
+1368377	Ilex paraguariensis whole extract
+1368378	Terminalia bellirica fruit extract
+1368530	Panax ginseng whole extract
+1368708	Maritime Pine extract
+1368868	Sanguisorba officinalis top extract
+1369395	apple seed extract
+1369396	Tropaeolum majus flower extract
+1369564	Physalis alkekengi calyx extract
+1369686	Lonicera japonica top extract
+1369687	Petasites hybridus leaf extract
+1369689	Simmondsia chinensis whole extract
+1369690	Zanthoxylum bungeanum whole extract
+1369897	Quassia amara whole extract
+1369912	adrenocortical extract
+1370104	Freesia alba flower extract
+1370105	Waltheria indica leaf extract
+1370109	Vaccinium myrtillus whole extract
+1370191	Acacia angustissima bark extract
+1370194	Salvia officinalis flowering top extract
+1370197	Sorghum bicolor whole extract
+1370301	Rubia tinctorum whole extract
+1370302	bitter almond oil extract
+1370373	Brine shrimp extract
+1370435	Glycyrrhiza glabra extract
+1370466	Juglans nigra whole extract
+1370467	Fennel extract
+1370469	onion extract
+1370469	Onion extract
+1370470	Clary sage extract
+1370676	Thymus citriodorus leaf extract
+1370729	Angelica sinensis whole extract
+1370734	Toxicodendron pubescens shoot extract
+1370761	quince extract
+1370766	barley extract
+1370769	raspberry extract
+1370769	Raspberry extract
+1370773	Bean extract
+1370774	Asian ginseng extract
+1370776	Swertia japonica extract
+1370777	Bird pepper extract
+1370778	Orange Peel extract
+1370779	Soybean germ extract
+1370781	Wheat gluten extract
+1370783	seaweed extract
+1370784	Chlorella vulgaris extract
+1370785	Gum talha extract
+1370786	Viola odorata extract
+1370787	okra extract
+1370790	Astacus astacus extract
+1370792	Urtica urens extract
+1370984	Lagerstroemia indica extract
+1370985	Trametes versicolor fruiting body extract
+1370986	Dulacia inopiflora wood extract
+1370987	Microcitrus australis fruit extract
+1370988	Tribulus terrestris extract
+1370989	Morus alba extract
+1370990	Planatus occidentalis bark extract
+1370991	Bilberry seed extract
+1370992	Barbasco extract
+1371034	Crambe maritima leaf extract
+1371037	Lippia citriodora leaf extract
+1371300	chicory root extract
+1371301	Euphorbia thymifolia whole extract
+1371302	Ptychopetalum olacoides wood extract
+1371312	Grifola frondosa whole extract
+1371444	Boswellia sacra bark extract
+1371910	Ipomoea purpurea seed extract
+1371911	Passiflora incarnata seed extract
+1371948	Drosera intermedia extract
+1371949	Eriodictyon californicum flowering top extract
+1371995	Laminaria angustata extract
+1371996	heart's ease extract
+1371996	Viola tricolor extract
+1371997	Stellaria media extract
+1371999	Onopordum extract
+1372000	Canada balsam extract
+1372001	Hydrangea extract
+1372003	Bamboo extract
+1372004	Mint extract
+1372005	Dragon's Blood extract
+1372006	Elm extract
+1372007	Citrus nobilis extract
+1372008	Bitter fennel extract
+1372010	Crithmum maritimum extract
+1372011	Acer saccharum sap extract
+1372013	Gelidiella acerosa extract
+1372248	Coconut extract
+1372249	Cluster fig extract
+1372250	Achillea millefolium extract
+1372251	Greater galangal extract
+1372253	Melilotus extract
+1372255	Goldenseal extract
+1372258	Spearmint extract
+1372259	Picea abies wood extract
+1372260	Spanish chestnut extract
+1372262	Snow pea extract
+1372263	Salicornia europaea extract
+1372264	Eastern white pine extract
+1372271	Chinese chestnut extract
+1372272	green peppercorn extract
+1372418	grape leaf extract
+1372466	Hibiscus syriacus seed extract
+1372476	Rhus chinensis whole extract
+1372477	Voacanga africana seed extract
+1372478	Asarum heterotropoides extract
+1372561	Pinus sylvestris cone extract
+1372563	Zingiber officinale whole extract
+1372564	Coltsfoot leaf extract
+1372632	Alisma plantago-aquatica subsp. orientale root extract
+1372633	Atractylodes macrocephala root extract
+1372634	Bidens pilosa whole extract
+1372635	Immature Citrus aurantium fruit extract
+1372636	Ilex pedunculosa whole extract
+1372637	Polygonatum sibiricum root extract
+1372641	Chinese yam extract
+1372927	Gynostemma pentaphyllum top extract
+1372928	Heterotheca inuloides flower extract
+1372932	Rhodiola crenulata root extract
+1373032	Mirabilis jalapa flowering top extract
+1373036	Petiveria alliacea whole extract
+1373038	Vitis vinifera leaf extract
+1373039	Rheum officinale stem extract
+1373155	Nelumbo nucifera root extract
+1373156	Nelumbo nucifera whole extract
+1373158	Polygonatum odoratum whole extract
+1373159	Prunus armeniaca whole extract
+1373160	Rhus chinensis root extract
+1373161	Scrophularia nodosa root extract
+1373354	Myrothamnus flabellifolia leaf extract
+1373722	Citrus sinensis flower extract
+1373723	Gossypium herbaceum whole extract
+1373728	Rosa canina seed extract
+1373895	cocoa extract
+1373895	Cocoa extract
+1374398	Brosimum acutifolium bark extract
+1374400	Himatanthus lancifolius bark extract
+1374401	Mansoa alliacea bark extract
+1374402	Mansoa alliacea leaf extract
+1374403	Minquartia guianensis bark extract
+1374404	Phyllanthus niruri whole extract
+1374405	Piper aduncum leaf extract
+1376087	Cestrum latifolium leaf extract
+1376088	Olea europaea bark extract
+1376211	Coptis chinensis root extract
+1376212	Garcinia indica fruit extract
+1376213	Carthamus tinctorius flower bud extract
+1376214	Corydalis ambigua tuber extract
+1376215	Sambucus canadensis flower extract
+1376346	Lavandula angustifolia whole extract
+1376347	Olea europaea whole extract
+1376349	Thymus vulgaris whole extract
+1376500	Panax pseudoginseng root extract
+1376501	Huperzia serrata extract
+1420957	Aloe andongensis leaf extract
+1420958	Aralia cordata root extract
+1420959	Cnidium officinale whole extract
+1420962	Dendrobium nobile stem extract
+1420963	Ferula assa-foetida whole extract
+1420970	Inga edulis seed extract
+1420971	Lindera aggregata root extract
+1420973	Momordica cochinchinensis seed extract
+1420974	Morus australis leaf extract
+1420975	Nelumbo nucifera stamen extract
+1420976	Paeonia veitchii root extract
+1420977	Polygonum cuspidatum whole extract
+1420980	scrophularia ningpoensis root extract
+1420980	Scrophularia ningpoensis root extract
+1420981	Senna alata whole extract
+1421146	Pikea robusta extract
+1421432	Barleria prionitis whole extract
+1421433	Cajanius cajan leaf extract
+1421435	Crinum asiaticum whole extract
+1421436	Zingiber moutanum flowering top extract
+1421446	Piper betle leaf extract
+1421478	Limulus polyphemus extract
+1421644	bitter almond extract
+1421885	Chenopodium album whole extract
+1421886	Festuca pratensis top extract
+1422928	Aloe arborescens leaf extract
+1423220	asparagus root extract
+1423235	platycodon grandiflorus root extract
+1423236	poria mushroom extract
+1423797	Mahonia aquifolium whole extract
+1423921	Eschscholzia californica flowering top extract
+1423924	corn grain extract
+1424266	Lobelia cardinalis extract
+1424267	Semecarpus anacardium fruit extract
+1424357	Padina pavonica extract
+1424359	Persicaria tinctoria top extract
+1424462	Thaumatococcus daniellii fruit extract
+1424645	purslane extract
+1424863	Adansonia digitata fruit extract
+1424865	apple extract
+1424865	Apple extract
+1424878	Diamond turbot extract
+1424881	juglans regia shell extract
+1424897	jujube fruit extract
+1424898	locust bean gum extract
+1424904	Mastocarpus stellatus extract
+1424909	Marrubium vulgare extract
+1425087	sandalwood extract
+1425403	Yucca Schidigera extract
+1425404	Verbena officinalis extract
+1425412	Helianthus annuus whole extract
+1425413	Elaeis guineensis whole extract
+1425901	Aphloia theiformis leaf extract
+1425927	Tropaeolum majus extract
+1425936	Phormidium persicinum extract
+1426158	Grindelia squarrosa flowering top extract
+1426332	Mango extract
+1426343	saccharomyces lysate extract
+1426364	tangerine extract
+1426382	Haematococcus pluvialis extract
+1426383	Himanthalia elongata extract
+1426389	Oldenlandia diffusa extract
+1426416	Pelvetia canaliculata extract
+1426419	Lamium album extract
+1426421	Pimpinella anisum extract
+1426423	Ziziphus extract
+1426431	Macrocystis pyrifera extract
+1426436	Horehound extract
+1426441	elemi extract
+1426450	Mesophyllum Lichenoides extract
+1426466	Dunaliella salina extract
+1426473	Lime extract
+1426481	Clonostachys rosea f. rosea allergenic extract
+1426558	Laminaria japonica extract
+1426559	Laminaria ochroleuca extract
+1426629	Thermomyces lanuginosus allergenic extract
+1426645	Guava extract
+1426661	Usnea barbata extract
+1426665	Trichosporon cutaneum allergenic extract
+1426782	Ulva compressa extract
+1426908	Capsosiphon fulvescens extract
+1426912	Pisum sativum (pea) extract
+1426917	Porphyra yezoensis extract
+1426918	Pseudevernia furfuracea extract
+1426920	Sargassum filipendula extract
+1426921	lentil seed extract
+1426923	Mentha pulegium extract
+1426950	Opuntia ficus-indica extract
+1427044	Penicillium digitatum allergenic extract
+1427046	Wheat Bran extract
+1427059	Lolium perenne allergenic extract
+1427080	wheat middlings extract
+1427085	Pepper extract
+1427134	Ustilago maydis extract
+1427139	Ophiocordyceps sinensis extract
+1427206	Lachnanthes caroliniana extract
+1427220	Pichia jadinii extract
+1427413	Lingonberry extract
+1428027	Calendula officinalis whole extract
+1428042	Panax quinquefolius whole extract
+1428043	Hyacinthoides non-scripta extract
+1428214	Alisma plantago-aquatica top extract
+1428216	Chenopodium vulvaria extract
+1428218	Erechtites hieraciifolius extract
+1428219	Euonymus atropurpureus branch bark-root bark extract
+1428412	Althaea officinalis whole extract
+1428414	Agrostemma githago seed extract
+1428415	Alnus serrulata bark extract
+1428416	Asarum canadense root extract
+1428417	Cynodon dactylon extract
+1428418	Fraxinus americana bark extract
+1428420	Jacobaea vulgaris extract
+1428421	Platanus x acerifolia whole extract
+1428422	Populus balsamifera leaf bud extract
+1428423	Sassafra albidum root bark extract
+1428837	Melia azedarach bark extract
+1428838	Melia azedarach fruit extract
+1428839	Melia azederach leaf extract
+1428840	Psidium guajava extract
+1428841	Morus australis wood extract
+1428842	Vigna radiata extract
+1428843	Iris germanica extract
+1428844	Dianthus caryophyllus flower extract
+1428845	Ficus carica flower extract
+1428847	Cucumis melo extract
+1428848	Adansonia digitata leaf extract
+1428849	Adansonia digitata seed extract
+1428850	Artemisia absinthium extract
+1428851	Monarda didyma leaf extract
+1428852	Nelumbo nucifera germ extract
+1428853	Curcuma longa whole extract
+1428855	desert date extract
+1428866	carrot extract
+1428876	Petasites fragrans extract
+1428888	caraway seed extract
+1429042	Portulaca oleracea leaf extract
+1429391	Glechoma longituba top extract
+1429394	Ocimum gratissimum whole extract
+1429926	Cannabis sativa seed extract
+1429927	Chamaecyparis obtusa whole extract
+1429934	Limnanthes alba whole extract
+1429939	Melia azedarach whole extract
+1429948	Polygala tenuifolia root extract
+1429953	Pulsatilla koreana whole extract
+1429969	Lonicera caprifolium flowering top extract
+1430129	Nicotiana tabacum whole extract
+1430251	phyllostachys nigra sap extract
+1431045	parathyroid gland extract
+1431225	Cistus monspeliensis leaf extract
+1431284	Glechoma hederacea flowering top extract
+1431310	Opuntia tuna flowering top extract
+1431705	Mauritia flexuosa whole extract
+1431709	Rubus idaeus seed extract
+1431718	Harrisia pomanensis stem extract
+1432292	Elaeis guineensis fruit extract
+1432296	Citrus paradisi, whole extract
+1432472	codonopsis lanceolata root extract
+1432473	Laricifomes officinalis whole extract
+1432474	whole Melia azederach extract
+1432475	whole eriodictyon californicum extract
+1432477	Tilia cordata, whole extract
+1432478	punica granatum whole extract
+1432794	oxytropis lambertii top extract
+1432796	parthenium hysterophorus extract
+1432797	Ricinus communis whole extract
+1432990	Ptychopetalum olacoides root extract
+1433190	Vernonia appendiculata leaf extract
+1433191	Cyperus esculentus leaf extract
+1433641	Daemonorops draco whole extract
+1433760	Erodium cicutarium extract
+1435096	Melaleuca alternifolia flowering top extract
+1435097	Physalis alkekengi fruit extract
+1435098	soursop extract
+1435099	Citrus medica fruit extract
+1435100	Argania spinosa seed extract
+1435101	Althaea officinalis flower extract
+1435102	Corydalis decumbens root extract
+1435103	Saccharum officinarum whole extract
+1435104	Sophora tetraptera flower extract
+1435105	Trametes versicolor whole extract
+1435387	Centaurea benedicta flowering top extract
+1435388	Chelidonium majus flowering top extract
+1435389	Ecklonia cava extract
+1435391	Gelidium cartilagineum extract
+1435392	Sargassum fusiforme extract
+1435393	Frasera caroliniensis root extract
+1435397	Pueraria montana var. lobata whole extract
+1435523	Mimosa pudica leaf extract
+1435637	Zanthoxylum piperitum fruit rind extract
+1435638	Strophanthus gratus seed extract
+1435859	Cyclopia intermedia leaf extract
+1435861	Angelica atropurpurea root extract
+1435862	Juglans regia whole extract
+1435866	Polygonatum multiflorum whole extract
+1435867	Rheum officinale whole extract
+1435868	Saururus chinensis whole extract
+1436168	Rheum palmatum root extract
+1436960	Siraitia grosvenorii fruit extract
+1437220	Betula pubescens flower bud extract
+1437222	Quercus marilandica pollen extract
+1437307	Abelmoschus esculentus seed extract
+1437359	blue agave extract
+1437503	Oenothera biennis seed extract
+1437505	Styphnolobium japonicum leaf extract
+1437693	pinguicula extract
+1437851	Melicope pteleifolia leaf extract
+1437985	citrus sinensis whole extract
+1438056	Boletus satanas fruiting body extract
+1438109	Lycopodium complanatum whole extract
+1438110	Quillaja saponaria wood extract
+1438116	Cupressus sempervirens fruiting leafy twig extract
+1438291	Rosa canina leaf extract
+1440225	corn cob extract
+1440241	safflower seed extract
+1440278	Platanus occidentalis whole extract
+1441294	Acalypha indica extract
+1441295	Aconitum lycoctonum extract
+1441296	Agave tequilana top extract
+1441297	Agaricus campestris var. campestris whole extract
+1441298	Amanita pantherina whole extract
+1441299	Amanita phalloides whole extract
+1441322	Iresine calea extract
+1441400	Vitex agnus-castus whole extract
+1441536	Allium sativum whole extract
+1441543	Alnus glutinosa bark extract
+1441544	Alstonia constricta bark extract
+1441657	Mirabilis jalapa top extract
+1441658	Senna occidentalis extract
+1442191	Argemone mexicana whole extract
+1442192	Aristolochia serpentaria root extract
+1442198	Camellia sinensis var. assamica whole extract
+1442504	Azadirachta indica seed extract
+1442505	Cupressus sempervirens leafy twig extract
+1442506	Cymbopogon flexuosus whole extract
+1442507	Cymbopogon martini top extract
+1442508	Daucus carota subsp. sativus seed extract
+1442509	Litsea cubeba fruit extract
+1442511	Salvia officinalis whole extract
+1442512	Pelargonium graveolens whole extract
+1442699	Melilotus indicus whole extract
+1442700	Prunus virginiana bark extract
+1442701	Commiphora myrrha whole extract
+1442702	Dictamnus dasycarpus whole extract
+1442703	Gleditsia sinensis whole extract
+1442704	Rheum palmatum whole extract
+1442705	Sanguisorba officinalis whole extract
+1442706	Sophora flavescens whole extract
+1442792	Stachys officinalis extract
+1442993	Hyoscyamus niger whole extract
+1442994	Potentilla anserina whole extract
+1442995	Prunus spinosa whole extract
+1442997	Dictyopteris polypodioides extract
+144377	Arnica extract
+1461295	house dust mite allergen extract
+1482536	Eryngium maritimum extract
+1482537	Malus domestica whole extract
+1482541	Argania spinosa whole extract
+1482542	Celosia argentea seed extract
+1482543	Levisticum officinale root extract
+1482544	Persicaria punctata extract
+1482545	Pteridium aquilinum whole extract
+1482547	Asplenium scolopendrium top extract
+1482548	Prunus spinosa fruit extract
+1482550	wheat sprout extract
+1482787	Hyssopus officinalis whole extract
+1482788	Cistus incanus flowering top extract
+1482789	Cordia sebestena flower extract
+1482791	Dactylopius coccus whole extract
+1482793	Tylophora indica leaf extract
+1483424	Cupressus sempervirens whole extract
+1483425	Lavandula dentata whole extract
+1483620	Rosa rugosa flower bud extract
+1483729	Asparagus adscendens root extract
+1484143	Acacia senegal flower extract
+1484279	Cucumis sativus whole extract
+1484280	Zea mays subsp. mays whole extract
+1484525	cordyceps extract
+1484854	Cannavis sativa susp. indica top extract
+1484855	Cannabis sativa subsp. flowering top extract
+1484856	Cicuta virosa whole extract
+1484860	Larrea tridentata whole extract
+1484904	saffron extract
+1484973	Black alder pollen extract
+1484974	Meadow foxtail pollen extract
+1484975	Argentine canola pollen extract
+1484976	Meadow Brome pollen extract
+1484977	Heather pollen extract
+1484978	Blitum bonus-henricus pollen extract
+1484979	Common hazel pollen extract
+1484980	Crested dogstail pollen extract
+1484981	European beech pollen extract
+1484982	Ash pollen extract
+1484983	Broadleaf plantain pollen extract
+1484984	English oak pollen extract
+1484985	Bulbous buttercup pollen extract
+1484986	White willow pollen extract
+1485064	Bambusa bambos whole extract
+1485065	Colchicum autumnale seed extract
+1485066	Lycopodium clavatum whole extract
+1485120	Senecio vulgaris extract
+1485537	Periploca sepium root bark extract
+1485538	Erodium stephanianum top extract
+1485786	Mucuna pruriens seed extract
+1486391	Boswellia serrata whole extract
+1486392	Morinda officinalis whole extract
+1486502	Ilex aquifolium fruiting top extract
+1486503	white mustard seed extract
+1486507	Calophyllum tacamahaca whole extract
+1486517	Mangifera indica seed extract
+1486539	cumin extract
+1486557	guduchi extract
+1486558	indian gooseberry extract
+1486677	black mustard seed extract
+1486716	Opuntia streptacantha stem extract
+1486881	Cedrus deodara wood extract
+1487085	Crambe maritima whole extract
+1487140	Salvia officinalis root extract
+1487507	Prunus armeniaca leaf extract
+1487831	Hyoscyamus niger leaf extract
+1487909	Eperua falcata bark extract
+1488586	meadowsweet (filipendula ulmaria) flower extract
+1488815	Isodon rubescens top extract
+1488816	Saponaria officinalis leaf extract
+1488817	Veratrum nigrum flowering top extract
+1488819	Lachesis muta whole extract
+1488821	Pinus mugo subsp. mugo bark extract
+1488997	Lawsonia inermis flowering top extract
+1488998	Acacia dealbata flower extract
+1488999	Boerhavia diffusa root extract
+1489545	Cinnamomum aromaticum whole extract
+1489546	Commiphora myrrha top extract
+1489547	Geranium wilfordii top extract
+1489550	Schizonepeta tenuifolia whole extract
+1489551	Zanthoxylum piperitum whole extract
+1489760	Paeonia officinalis whole extract
+1490681	Angelica pubescens whole extract
+1490682	Bletilla striata whole extract
+1490684	Lindera aggregata whole extract
+1490685	Mentha arvensis whole extract
+1490686	Notopterygium incisum whole extract
+1490687	Paeonia lactiflora whole extract
+1490688	Rehmannia glutinosa whole extract
+1490689	Scrophularia ningpoensis whole extract
+1491738	Toxicodendron succedaneum whole extract
+1491859	Pinus sylvestris bark extract
+1491860	Ribes nigrum leaf extract
+1492037	Genipa americana fruit extract
+1492171	Strophanthus kombe whole extract
+1492174	pineapple extract
+1492182	Agropyron fragile whole extract
+1492184	Tilia americana flower extract
+1492299	Lolium temulentum top extract
+1492326	Ehrlichia chaffeensis extract
+1492339	polygonum cuspidatum leaf extract
+1492383	Salix purpurea bark extract
+1492385	Colchicum autumnale flower extract
+1492439	Symphytum officinale whole extract
+1492442	Orchis mascula tuber extract
+1492933	Sophora tonkinensis whole extract
+1492934	Salix alba flower extract
+1492935	Paris quadrifolia extract
+1492937	Lonicera confusa flower extract
+1492938	Iris domestica whole extract
+1492939	Grindelia hirsutula whole extract
+1492943	Boletus luridus fruiting body extract
+1493692	Gelsemium sempervirens whole extract
+1493693	Gymnema sylvestre leaf extract
+1494631	cuscuta seed extract
+1494645	clown's mustard plant extract
+1494649	catuaba extract
+1495155	eucalyptus piperita leaf extract
+1495206	Verbascum densiflorum flower extract
+1495456	Hyriopsis cumingii whole extract
+1534766	Andrographis paniculata whole extract
+1534775	Simmondsia chinensis leaf extract
+1534776	Three-Lobe sage extract
+1534777	Dicentra canadensis root extract
+1535221	Kalanchoe daigremontiana leaf extract
+1535473	Amomum villosum var. xanthioides whole extract
+1535474	Broussonetia kazinoki whole extract
+1535475	Broussonetia papyrifera whole extract
+1535477	Cymbopogon martini whole extract
+1535478	Equisetum arvense whole extract
+1535479	Eucommia ulmoides whole extract
+1535488	Eugenia uniflora whole extract
+1535489	Fritillaria cirrhosa bulb extract
+1535490	Glycyrrhiza glabra whole extract
+1535491	Glycyrrhiza uralensis whole extract
+1535492	Humulus lupulus whole extract
+1535493	Lepidium sativum seed extract
+1535495	Peucedanum praeruptorum root extract
+1535496	Polygonum arenastrum whole extract
+1535497	Stemona sessilifolia root extract
+1536454	Tabebuia impetiginosa leaf extract
+1537210	Amorphophallus konjac root extract
+1537752	papaya seed extract
+1537753	Valeriana officinalis whole extract
+1537756	Argemone mexicana extract
+1537757	Glechoma longituba whole extract
+1539191	Uncaria gambir whole extract
+1539192	Tilia platyphyllos flower extract
+1539193	Styphnolobium japonicum flower extract
+1539194	Scrophularia buegeriana root extract
+1539195	Babassu seed extract
+1539415	Tagetes erecta whole extract
+1539416	Tremella fuciformis whole extract
+1539417	Oxalis corniculata whole extract
+1539418	Magnolia grandiflora leaf extract
+1539419	Prunus X yedoensis leaf extract
+1539421	Adansonia digiata whole extract
+1539422	Amaranthus hypochondriacus whole extract
+1539423	Artemisia umbelliformis whole extract
+1539424	Epilobium angustifolium whole extract
+1539425	Kalanchoe pinnata leaf extract
+1539427	Scutellaria alpina flowering top extract
+1539684	Leontopodium alpinum extract
+1539815	Immature Citrus sinensis fruit extract
+1539965	Angelica dahurica var. formosana whole extract
+1540056	mixed grass pollens allergen extract
+1540057	ragweed pollen allergen extract
+1540238	Brassica rapa subsp. rapa seed extract
+1540239	Lavandula stoechas whole extract
+1540240	Vaccinium angustifolium whole extract
+1540827	Cardiospermum halicacbum whole extract
+1540869	Jasminum sambac flower extract
+1540874	Centipeda minima whole extract
+1541239	Fragaria vesca whole extract
+1541240	Geum urbanum root extract
+1541241	Petasites hybridus root extract
+1541242	Quercus robur whole extract
+1541243	Rheum tanguticum whole extract
+1541244	Sphagnum squarrosum extract
+1541714	Cimicifuga simplex root extract
+1541715	Citrus aurantiifolia whole extract
+1541716	Coriandrum sativum whole extract
+1541717	Cucurbita pepo whole extract
+1541718	Eremocitrus glauca fruit extract
+1541719	Jasminum officinale whole extract
+1541720	Laurus nobilis whole extract
+1541721	Sesamum indicum whole extract
+1541722	Lawsonia inermis whole extract
+1541723	Pinus Densiflora leaf extract
+1541724	Triticum polonicum seed extract
+1541727	Brassica oleracea var. italica whole extract
+1541728	Eruca vesicaria subsp. sativa leaf extract
+1541731	Eucalyptus gum extract
+1541735	black catechu extract
+1541740	Taraxacum mongolicum extract
+1541882	Artemisia vulgaris whole extract
+1541884	Gardenia jasminoides whole extract
+1543077	Euphorbia hirta flowering top extract
+1543082	Bergamot orange extract
+1543293	Asplenium scolopendrium whole extract
+1543294	Rosa damascena whole extract
+1543411	Fritillaria delavayi bulb extract
+1544131	Plectranthus barbatus whole extract
+1544246	Centaurium erythraea flowering top extract
+1544247	Imperatoria ostruthia root extract
+1544248	Myristica fragrans whole extract
+1544270	Syzygium aromaticum fruit extract
+1544271	sweet marjoram extract
+1544272	Anemarrhena asphodeloides whole extract
+1544273	Ocimum africanum leaf extract
+1544392	Epigaea repens extract
+1544484	Eichhornia crassipes whole extract
+1544634	Cucurbita pepo flower extract
+1545037	Abies alba leafy twig extract
+1545038	Anamirta cocculus whole extract
+1545040	Conium maculatum root extract
+1545042	Verbascum thapsus leaf extract
+1545681	Cichorium intybus whole extract
+1545682	Colchicum autumnale whole extract
+1545683	Krameria lappacea whole extract
+1545684	Ononis repens root extract
+1545790	Daphne mezereum whole extract
+1545791	Populus tremula whole extract
+1545912	Sedum roseum whole extract
+1546206	Croton tiglium whole extract
+1546363	Verbascum densiflorum whole extract
+1546412	Morinda officianalis root extract
+1546706	Pandanus tectorius root extract
+1546861	Acmella oleracea whole extract
+1546862	Adonis vernalis flowering top extract
+1546864	Cynanchum paniculatum root extract
+1546865	Sparganium stoloniferum root extract
+1546866	Tinospora capillipes root extract
+1546867	Entada phaseoloides whole extract
+1547465	Acacia catechu bark extract
+1547466	Agrimonia pilosa whole extract
+1547468	Rubia cordifolia root extract
+1547469	Sparganium stoloniferium whole extract
+1547470	Brucea javanica whole extract
+1547471	Celosia cristata flower extract
+1547472	Corydalis bungeana whole extract
+1547555	Cytisus scoparius flower extract
+1547556	Sphaeranthus indicus flowering top extract
+1547559	Gentiana manshurica whole extract
+1547568	Borago officinialis whole extract
+1547571	Piellia ternata whole extract
+1547577	Lactarius indigo whole extract
+1547578	Curcuma amada whole extract
+1547608	Euphorbia amygdaloides extract
+1547621	Pseudolarix amabilis bark extract
+1547623	Chrysanthemin extract
+1547712	Acmella oleracea flowering top extract
+1547755	Stephania tetrandra root extract
+1549103	Hyacinthus orientalis whole extract
+1549105	Leonurus cardiaca flowering top extract
+1549107	Lysimachia nummularia extract
+1549108	Picea abies leaf extract
+1549111	Teucrium scorodonia whole extract
+1549225	Impatiens balsamina flower extract
+1549329	blueberry extract
+1549554	Alisma plantago-aquatica whole extract
+1549697	Ribes nigrum flower bud extract
+1549712	quillaja extract
+155097	hawthorn extract
+1551309	Orchis mascula flower extract
+1551422	Nuphar japonica root extract
+1551454	Ephedra sinica stem extract
+1551456	Lycopodium complanatum spore extract
+1552036	Aristolochia clematitis whole extract
+1552574	Ainsliaea fragrans top extract
+1591895	Backhousia citriodora whole extract
+1591911	Chlorella pyrenoidosa extract
+1591919	Turnera diffusa leaf extract
+1591950	Cinchona officinalis whole extract
+1592296	kale extract
+1592735	Phaeodactylum tricornutum extract
+1592898	Rosa arkansana root extract
+1592900	Polygonatum cyrtonema root extract
+1593200	Trigonella foenum-graecum whole extract
+1593610	Spinacia oleracea root extract
+1593611	Argania spinosa leaf extract
+1593612	Pinus taeda bark extract
+1594579	Clematis hexapetala whole extract
+1594580	Momordica charantia whole extract
+1594581	Phellodendron amurense whole extract
+1594582	Scopolia carniolica whole extract
+1594763	Ferula communis subsp. glauca extract
+1594764	Paeonia lactiflora flower extract
+1594930	Portulaca grandiflora whole extract
+1594931	Portulaca grandiflora seed extract
+1594933	Mentha spicata extract
+1594963	turkey feather extract
+1594964	pheasant feather extract
+1594965	Syrian hamster hair extract
+1594966	Solanum tuberosum extract
+1595580	Oenanthe crocata root extract
+1595582	Cordyceps gunnii fruiting body extract
+1595583	Cynanchum stauntonii root extract
+1595584	Lepidium meyenii whole extract
+1596680	linden leaf extract
+1596767	Cymbopogon citratus whole extract
+1597186	Combretum micranthum leaf extract
+1597291	Myrtus communis whole extract
+1597293	Origanum vulgare subsp. hirtum whole extract
+1597624	Zanthoxylum zanthoxyloides bark extract
+1597886	Acer saccharum whole extract
+1597887	Acer saccharinum whole extract
+1597889	Foeniculum vulgare whole extract
+1598581	Kakadu plum extract
+1599131	Salix babylonica whole extract
+1599142	Allium fistulosum bulb extract
+1599143	Lophatherum gracile whole extract
+1599157	Mentha arvensis top extract
+1599640	Strychnos nux-vomica whole extract
+1599641	Vitis vinifera anthocyanins extract
+1600137	Cucumis sativus leaf extract
+1600138	Daucus carota subsp. carota whole extract
+1600141	Pinus thunbergii whole extract
+1600435	Artemisia princeps whole extract
+1600595	Buddleja davidii leaf extract
+1600738	Isodon rubescens whole extract
+1600739	Leucas cephalotes whole extract
+1600740	Leucoagaricus leucothites whole extract
+1600741	Liriope muscari root extract
+1600742	lithospermum officinale root extract
+1600743	Maranta arundinacea root extract
+1600744	Ostericum grosseserratum root extract
+1600745	Prunus mume whole extract
+1600746	Pseudostellaria heterophylla whole extract
+1600747	Rubus fruticosus seed extract
+1600749	Senna obtusifolia seed extract
+1600750	Torilis japonica whole extract
+1600751	Anethum graveolens whole extract
+1601429	butterbur root extract
+1601986	Joshua tree root extract
+1601987	desert sand verbena leaf extract
+1601988	American aloe stem extract
+1601989	coachwhip stem extract
+1601991	Opuntia cochenillifera flower extract
+1603472	artemisia pallens whole extract
+1603478	jasminum sambac whole extract
+1603481	opopanax chironium whole extract
+1603850	Dictamnus dasycarpus root bark extract
+1603853	Cistanche deserticola stem extract
+1605083	Astragalus exscapus whole flowering-fruiting extract
+1605249	Sarracenia purpurea extract
+1606210	Angelica dahurica leaf extract
+1606211	Lepidium sativum leaf extract
+1606212	Stemona tuberosa root extract
+1606213	Panax notoginseng whole extract
+1606220	Dioscorea oppositifolia whole extract
+1606221	Kaempferia galanga whole extract
+1606330	Angelica seed extract
+1606331	Musa X paradisiaca whole extract
+1606332	Eutrema japonicum whole extract
+1606334	Grindelia squarrosa whole extract
+1606478	Foeniculum vulgare leaf extract
+1606480	bay leaf extract
+1606854	Leontopodium nivale subsp. alpinum root extract
+1607314	Indigofera tinctoria leaf extract
+1607315	Prunus apetala whole extract
+1608319	Hibiscus syriacus bark extract
+1608379	Ledum palustre whole extract
+1608546	Portulaca oreracea seed extract
+1609188	Bassia scoparia fruit extract
+1609189	Erythroxylum catuaba bark extract
+1609190	Gambir leaf extract
+164090	ashwagandha extract
+1648125	Lophophora williamsii flower extract
+1648141	Natal orange extract
+1648691	Butea monosperma flower extract
+1648694	Convallaria majalis flower top extract
+1648697	Melissa officinalis flowering top extract
+1648698	Linaria vulgaris extract
+1648700	Grevillea speciosa flower extract
+1648701	Jerusalem artichoke extract
+1648702	Lamprocapnos spectabilis flower extract
+1648927	Angelica polymorpha root extract
+1649015	Musa X paradisiaca flower extract
+1649016	Taraxacum officinale flower extract
+1649017	Adiantum capillus-veneris leaf extract
+1649129	Tamarind extract
+1649129	tamarind fruit extract
+1649133	Chenopodium quinoa flowering top extract
+1649134	zucchini extract
+1649347	Ajuga reptans whole extract
+1649349	Hieracium pilosella whole extract
+1649351	Saxifraga granulata whole extract
+1649446	Eupatorium perfoliatum whole extract
+1649447	Polygala senega whole extract
+1650237	Curcuma zedoaria leaf extract
+1650239	Acacia catechu whole extract
+1650241	Pawpaw extract
+1650423	Parietaria officinalis leaf extract
+1650609	Camellia oleifera whole extract
+1650611	Ligusticum sinense susp. chuaxiong whole extract
+1650833	Salvia pratenis leaf extract
+1650835	Genista tinctoria extract
+1651595	Jasminum officinale leaf extract
+1651691	Actaea racemosa whole extract
+1651694	Jarcaranda caroba leaf extract
+1651696	Scutellaria galericulata leaf extract
+1651698	white tea extract
+1651700	Magnolia biondii flower extract
+1652098	Mercurialis annua flowering top extract
+1652099	Tussilago farfara whole extract
+1652100	Menyanthes trifoliata extract
+1652101	Glycyrrhiza echinata root extract
+1653327	Corydalis alpigena whole extract
+1653340	Aspalathus linearis whole extract
+1653342	Solanum lycopersicum fruiting top extract
+1654012	Jasminum grandiflorum flower extract
+1654638	Limonium gerberi whole extract
+1654961	Garcinia mangostana fruit extract
+1654971	Rubus corchorifolius fruit extract
+1655561	Chiococca alba root extract
+1655563	Oxydendrum arboreum leaf extract
+1655564	Amaranthus caudatus whole extract
+1655977	Agaricus subrufescens extract
+1655978	Aristotelia chilensis fruit extract
+1655979	Benincasa hispida seed extract
+1655980	Broussonetia kazinoki root extract
+1655981	Caulerpa lentillifera extract
+1655982	Cladanthus mixtus whole extract
+1655986	Gypsophila paniculata root extract
+1655987	Lophophytum leandrii extract
+1655988	Malva sylvestris seed extract
+1655989	Passiflora edulis fruit extract
+1655991	Rubus coreanus fruit extract
+1655992	Sapindus trifoliatus fruit extract
+1655993	star fruit extract
+1656306	Artemisia annua leaf extract
+1656322	Helichrysum arenarium flower extract
+1656419	Spelt seed extract
+1657725	wild oat whole extract
+1657726	black mustard whole extract
+1657728	gentian, stemless, whole extract
+1657755	white poplar whole extract
+1657759	winged elm whole extract
+1657786	Larix decidua whole extract
+1657791	jewel weed whole extract
+1657850	Actaea dahurica root extract
+1657855	Lilium longiflorum bulb extract
+1658430	Solidago virgaurea whole extract
+1658431	Hydrangea arborescens whole extract
+1658432	Arctostaphylos uva-ursi whole extract
+1658441	Scutellaria baicalensis whole extract
+1659194	arnatto leaf extract
+1659210	chaya leaf extract
+1660128	star anise whole extract
+1660771	Japanese pagoda tree flower bud extract
+1661014	Kappaphycus alvarezii extract
+1661015	horseradish tree whole extract
+1661336	horse chestnut whole extract
+1661435	milk thistle leaf extract
+1661436	common chickweed leaf extract
+1661437	mountain pepper fruit extract
+1661742	Elymus repens whole extract
+1661744	Lomatium dissectum whole extract
+1661745	Phytolacca americana whole extract
+1661793	Spatholobus suberectus stem extract
+1663245	Chinese red pine bark extract
+1663247	Cissus quadrangularis extract
+1663393	Citrullus colocynthis whole extract
+1663394	Jatropha curcas whole extract
+1663402	Rhus spp whole extract
+1663403	Secale cereale whole extract
+1663404	Strychnos ignatii whole extract
+1663405	Veratrum album whole extract
+1663473	Sargassum muticum extract
+1664342	Osmanthus fragrans flower extract
+1664624	Shorea stepnoptera seed butter extract
+1664625	Tropaeolum majus flowering top extract
+1666105	Iris tenax extract
+1666464	demineralised fish proteoglycan extract
+1666897	chaste tree seed extract
+1667212	Menyanthes trifoliata leaf extract
+1667261	Betula pendula wood extract
+1667354	Pilocarpus microphyllus leaf extract
+1667687	Diospyros mespiliformis leaf extract
+1667781	Furcellaria lumbricalis extract
+1668214	alfalfa top extract
+1668219	bean sprout extract
+1668220	broccoli sprout extract
+1672989	rye grass extract
+1673122	Alstonia scholaris bark extract
+1673374	Caolotropis gigantea root extract
+1673375	Epimedium sagittatum top extract
+1673376	Croton eluteria bark extract
+1673559	Selenicereus grandiflorus whole extract
+1673560	Ginkgo biloba seed extract
+1673701	Cephalanthus occidentalis bark extract
+1674198	Lentinula edodes whole extract
+1716091	Lonicera periclymenum flowering twig extract
+1716106	watermelon seed extract
+1719247	Zizia aurea root extract
+1719248	Verbena hastata top extract
+1719249	Narcissus pseudonarcissus extract
+1719250	Mikania parviflora leaf extract
+1719251	Gentianella quinquefolia extract
+1719256	Ficus religiosa leafy twig extract
+1719258	Galanthus nivalis extract
+1721436	Rumex acetosa whole leaf extract
+1721694	tabasco pepper extract
+1722034	Iris domestica root extract
+1722232	Matricaria recutita root extract
+1722378	Solanum melongena whole extract
+1722379	Azadirachta indica whole extract
+1722381	Ocimum tenuiflorum whole extract
+1723136	acacia decurrens whole extract
+1723158	Mentha aquatica var. citrata leaf extract
+1724419	Arisaema consanguineum root extract
+1724420	bush mango extract
+1724421	Carthamus tinctorius whole extract
+1724422	Citrus reticulata whole extract
+1724423	Clematis armandii stem extract
+1724424	Ephedra sinica root extract
+1724425	Equisetum hyemale top extract
+1724426	HIbiscus mutabilis flower extract
+1724427	Liquidambar formosana fruit extract
+1724428	Lycopus lucidus flowering top extract
+1725034	Myricaria paniculata stem extract
+1725035	Oxytropis chiliophylla whole extract
+1725036	Phlomoides rotata whole extract
+1725726	soybean hull extract
+1727167	Acer negundo inner bark extract
+1727168	Croton lechleri whole extract
+1727719	citrus junos fruit rind extract
+1729161	Calendula arvensis leaf extract
+1729164	Millettia pinnata seed extract
+1729316	Euphorbia pekinensis root extract
+1729512	Sepia esculenta whole extract
+1731021	Mangifera indica whole extract
+1732188	Aureobasidium pullulans allergenic extract
+1732648	Passiflora incarnata whole extract
+1733667	Citrus limon whole extract
+1733668	Berchemia lineata root extract
+1733669	Drynaria fortunei whole extract
+1733670	Pueraria montana var. lobata flowering top extract
+1733671	Rumex japonicus root extract
+1733672	Syzygium nervosum flower bud extract
+1733676	Chimonanthus praecox whole extract
+1733796	Alpinia galanga whole extract
+1733804	Liquidambar orientalis whole extract
+1733805	geranium wilfordii whole extract
+1735031	adzuki bean extract
+1735032	Chlorella minutissima extract
+1735033	Codium fragile extract
+1735037	Gelidium sesquipedale extract
+1735042	Linum catharticum extract
+1735043	Luffa aegyptiaca fruit extract
+1735046	Sansevieria trifasciata leaf extract
+1735047	Sargassum fulvellum extract
+1735048	sea cucumber extract
+1735152	Anemarrhena asphodeloides root extract
+1735324	Indigofera tinctoria whole extract
+1735326	Rumex acetosella whole extract
+1735509	Castanea crenata shell extract
+1736004	Laminaria hyperborea extract
+1737098	basil leaf extract
+1737112	snowball sand verbena whole extract
+1737114	mango leaf extract
+1737115	American plum fruit extract
+1737119	Drechslera sorokiniana allergenic extract
+1737120	Phoma herbarum allergenic extract
+1737132	Rhizopus oryzae allergenic extract
+1737791	Cymbidium hookerianum flower extract
+1739224	Lepidium sativum whole extract
+1739226	Rosa canina whole extract
+1739227	Tulipa kaufmanniana bulb extract
+1739231	Abelmoschus manihot flower extract
+1739881	Carya ovata bark extract
+1740935	Carapichea ipecacuanha whole extract
+1740936	Crocus sativus flower extract
+1740937	Humulus lupulus pollen extract
+1740939	Marsdenia cundurango whole extract
+1740940	Momordica balsamina whole extract
+1740941	Rhodiola kirilowii whole extract
+1742506	camellia sinensis seed extract
+1742507	Betula papyrifera whole extract
+1742530	Aspergillus niger allergenic extract
+1743793	Stemphylium sarcinaeforme allergenic extract
+1743794	Aspergillus oryzae allergenic extract
+1744169	Sambucus nigra subsp. cerulea fruit extract
+1744401	Camelina sativa whole extract
+1745252	Cistus monspeliensis whole extract
+1745412	Crotalus horridus horridus whole extract
+1745414	Lantana camara leaf extract
+1745415	Naja naja whole extract
+1745930	Passiflora incarnata root extract
+1745931	Crataegus monogyna leaf extract
+1746483	Adina rubella root extract
+1746484	Ampelopsis glandulosa var. brevipedunculata fruit extract
+1746485	Aralia chinensis whole extract
+1746486	Maclura cochinchinensis root extract
+1746488	Pheretima aspergillum extract
+1746489	Pinus massoniana leaf extract
+1747176	Adina rubella whole extract
+1747299	Achillea millefolium flowering top extract
+1747700	Nephelium lappaceum fruit rind extract
+1747709	Citrullus lanatus var. lanatus whole extract
+1747712	Lycium barbarum whole extract
+1788843	Erycibe obtusifolia stem extract
+1788870	Alternanthera sessilis extract
+1788980	Epilobium fleischeri whole extract
+1790089	Phlebodium aureum root extract
+1791061	Caesalpinia sappan bark extract
+1791062	Cuscuta australis seed extract
+1791063	Laburnum anagyroides flowering top extract
+1791606	Spilanthes acmella extract
+1791834	acacia decurrens flower extract
+1792311	Arachis hypogaea whole extract
+1793743	Paris polyphylla whole extract
+1793746	Selaginella lepidophylla extract
+1793747	Vanilla planifolia flower extract
+1793892	Fragaria vesca leaf extract
+1793894	Asarum sieboldii extract
+1793899	Cibotium barometz root extract
+1794166	Punica granatum leaf extract
+1794167	Vaccinium macrocarpon whole extract
+1795582	Cornus officinalis whole extract
+1795583	Morinda citrifolia whole extract
+1796919	Hyacinthus orientalis flower extract
+1796924	Scrophularia nodosa leaf and stem extract
+1796979	Pinus mugo subsp. mugo leafy twig extract
+1797516	Artemisia dracunculus whole extract
+1797517	Cymbopogon nardus whole extract
+1797518	Salvia sclarea whole extract
+1797519	Tanacetum vulgare whole extract
+1798357	Malus sylvestris whole extract
+1798359	Zostera marina whole extract
+1799008	Malva sylvestris whole extract
+1799141	Scleranthus annuus whole extract
+1799142	Dendrobium bigibbum flower extract
+1799146	Alcea rosea root extract
+1799147	Mimulus guttatus whole extract
+1799150	Psidium guajava leaf extract
+1799151	Rosa davurica flower bud extract
+1799153	turnip greens extract
+1799290	Bromus ramosus whole extract
+1799293	Corchorus olitorius leaf extract
+1799373	Alkanna tinctoria root extract
+1799374	Serenoa repens whole extract
+1800076	Prunus cerasifera whole extract
+1800485	Gardenia jasminoides flower extract
+1800486	Glebionis coronaria whole extract
+1800487	Mentha suaveolens whole extract
+1800488	Leucanthemum vulgare extract
+1800489	Carlina vulgaris whole extract
+1800490	Ulmus procera whole extract
+1800491	Sinapis arvensis whole extract
+1800659	Ceratostigma willmottianum whole extract
+1800661	Gentianella amarella whole extract
+1800666	Pinus sylvestris whole extract
+1800820	Lonicera caprifolium whole extract
+1800821	Prunella vulgaris leaf extract
+1801064	Aesculus carnea whole extract
+1801065	Helianthemum nummularium whole extract
+1801066	Phoenix reclinata fruit extract
+1801067	Salix alba whole extract
+1801151	Castanea sativa whole extract
+1801505	Impatiens glandulifera whole extract
+1801506	Magnolia kobus flowering top extract
+1801695	Clematis vitalba whole extract
+1801702	Acer pseudoplatanus pollen extract
+1801707	Pinus massoniana pollen extract
+1801708	Pinus tabuliformis pollen extract
+1801821	Veronica officinalis leaf extract
+1802850	Rhus chinensis gall extract
+1803001	Zostera marina seed extract
+1803720	Podocarpus elatus whole extract
+1803878	Wolfiporia extensa whole extract
+1803904	Ligusticum lucidum fruit extract
+1804171	Issatchenkia orientalis whole extract
+1805150	Fagus sylvatica whole extract
+1805272	Citrus nobilis whole extract
+1806682	Rubus chingii var. suavissimus leaf extract
+1806891	Caesalpinia sappan wood extract
+1806913	Tinospora cordifolia stem extract
+1807125	Bacopa monniera whole extract
+1807126	Grevillea buxifolia flower extract
+1807128	Telopea speciosissima flower extract
+1807129	Thysanotus tuberosus flower extract
+1808532	Madhuca longifolia var. latifolia seed butter extract
+1808533	Mirabilis jalapa seed extract
+1808534	Porphyra tenera extract
+1808536	Shorea robusta seed butter extract
+1808538	cherimoya extract
+1808601	Cullen corylifolium whole extract
+1808612	Nigella sativa seed extract
+1809243	Callicarpa japonica fruit extract
+1809827	Pinus sylvestris sprout extract
+1809828	Fumaria officials whole extract
+1809829	Ailanthus altissima whole extract
+1809830	Cynara scolymus whole extract
+1809835	Datura stramonium flowering top extract
+1809840	Viburnum opulus bark extract
+1809896	Pulmonaria officinalis whole extract
+1809897	Clematis hexapetala root extract
+1809898	Helichrysum arenarium whole extract
+1810298	Erysimum cheiri extract
+1810566	Sanicula europaea top extract
+1810985	Centella asiatica flowering top extract
+1811016	Syzygium cumini fruit extract
+1811251	Acacia catechu wood extract
+1811253	Scutellaria barbata whole extract
+1811457	Anemone pratensis flowering top extract
+1811764	Atropa belladonna flowering top extract
+1811765	Prunus americana whole extract
+1811841	Lamium album flowering top extract
+1812325	Pseudognaphalium luteoalbum whole extract
+1812326	Capsella bursa-pastoris top extract
+1812670	Kunzea pomifera fruit extract
+1812762	Allium fistulosum whoe extract
+1813290	Eutrochium purpureum flowering top extract
+1853766	Ragweed pollen extract
+1855094	Pinus pinaster whole extract
+1855195	Gynostemma pentaphyllum leaf extract
+1856257	Stachys officinalis flower top extract
+1856267	Abies sibirica whole extract
+1856269	Citrus sinensis leaf extract
+1857984	rhodiola root extract
+1858363	Hordeum vulgare whole extract
+1858973	Aristolochia cymbifera flower extract
+1859365	Arbutus andrachne leafy shoot extract
+1859367	Parthenocissus quinquefolia leaf extract
+1859766	Vaccinium corymbosum whole extract
+1860072	Terminalia catappa leaf extract
+1860076	holy basil leaf extract
+1860077	Justicia adhatoda flower extract
+1860419	Mesembryanthemum crystallinum whole extract
+1860421	black truffle extract
+1860605	Cornus florida bark extract
+1860609	Prunus cerasus flower bud extract
+1861941	Eryngium yuccifolium root extract
+1862095	Galega officinalis extract
+1862096	Gentiana cruciata root extract
+1862097	Guarea guidonia bark extract
+1862216	Saxifraga granulata flowering top extract
+1862313	Saraca indica bark extract
+1862478	Mimosa tenuiflora leaf extract
+1862479	Hagenia abyssinica flower extract
+1862598	Lepidium didymum leaf extract
+1862682	Ranunculus sceleratus extract
+1863220	Quercus rubra whole extract
+1863581	Xanthoxylum clava-herculus bark extract
+1863582	Xanthoxylum clava-herculus whole extract
+1864070	Umbellularia californica leaf extract
+1865700	Rehmannia elata root extract
+1865702	Paeonia obovata root extract
+1866393	Pisum sativum whole extract
+1866509	Tripleurospermum inodorum whole extract
+1866519	Dipsacus fullonum root extract
+1866521	Eucommia ulmoides leaf extract
+1866528	Cyathea medullaris leaf extract
+1868197	Elsholtzia ciliata whole extract
+1868198	Astragalus chinensis seed extract
+1868202	Ligusticum lucidum whole extract
+1868203	Ligustrum lucidum whole extract
+1868204	Lycium chinense whole extract
+1868205	Sepia officinalis whole extract
+1869801	ditch stonecroft extract
+1872037	mockernut extract
+1872038	pine nut extract
+1872048	Trapa bicornis seed extract
+1872379	Amomum villosum seed extract
+1872380	Myrothamnus flabellifolia whole extract
+1872988	Oat straw extract
+1873116	Vachellia farnesiana whole extract
+1874076	Opuntia cochenillifera fruit extract
+1874548	Garcinia mangostana bark extract
+1874549	Lippia citrodora flower extract
+1874550	Pinctada margaritifera shell extract
+1874893	Uncaria tomentosa whole extract
+1875234	Iris versicolor whole extract
+1875366	Saussurea involucrata whole extract
+1875523	Aconitum carmichaelii lateral root extract
+1875597	Carpesium abrotanoides fruit extract
+1875603	Rubus chamaemorus whole extract
+1875610	Impatiens balsamina whole extract
+1875781	yerba mate extract
+1875950	Tilia tomentosa bud extract
+1876118	Pueraria candollei var. mirifica root extract
+1876358	Phaseolus vulgaris whole extract
+1876359	Withania somnifera whole extract
+1876433	hibiscus flower extract
+1876509	Buxus sempervirens leafy twig extract
+1876510	Convolvulus arvensis extract
+1876511	Populus alba bark extract
+1876512	Taxus baccata whole extract
+1876513	fruit extracts
+1918046	Illicium anisatum whole extract
+1918048	Rhododendron ferrugineum leaf extract
+1918243	Ginkgo biloba root extract
+1918244	Panax ginseng leaf extract
+1918451	Cryptomeria japonica leaf extract
+1919465	bovine lipid extract surfactant
+1921158	Dipsacus fullonum whole extract
+1921560	Vanilla planifolia whole extract
+1921561	Euphorbia corollata root extract
+1921563	Plumeria rubra whole extract
+1921874	Brassica oleracea var. botrytis whole extract
+1922524	Cornus alba whole extract
+1922526	Phragmites australis stem extract
+1922729	Rhododendron ferrugineum whole extract
+1922732	Asarum heterotropoides root extract
+1922738	Dactylis glomerata allergenic extract
+1922741	Festuca pratensis allergenic extract
+1922743	Phleum pratense allergenic extract
+1922745	Poa pratensis allergenic extract
+1922750	Betula lenta allergenic extract
+1922751	Gibberella zeae allergenic extract
+1923304	Chamaecyparis lawsoniana fruiting twig extract
+1923402	corkwood tree leaf extract
+1923502	clove leaf extract
+1923614	Brunfelsia uniflora root extract
+1923615	Malmea depressa bark extract
+1923625	Dichapetalum madagascariense bark/leaf extract
+1923770	Cardiospermum halicacabum seed extract
+1923771	HIbiscus rosa-sinensis flower extract
+1923812	Karwinskia humboldtiana seed extract
+1923813	Lonicera japonica whole extract
+1923816	Platycladus orientalis whole extract
+1923818	Dictamnus dasycarpus root extract
+1924218	Smilax ornata root extract
+1924454	Liatris spicata root extract
+1925204	Acer negundo root bark extract
+1925438	mango bark extract
+1925581	Alyssoides utriculata extract
+1925834	Cephalosporium roseum extract
+1925877	Coriaria ruscifolia fruit extract
+1926519	Vaccinium myrtillus anthocyanosides extract
+1928182	Acacia concinna fruit extract
+1928184	Hedychium spicatum root extract
+1928529	Limonia acidissima bark extract
+1928705	Oxalis stricta whole extract
+1934607	Algae extract
+1940150	Dittrichia viscosa whole extract
+1941992	rice bean extract
+1942330	Hippeastrum puniceum whole extract
+1942696	Artemisia montana leaf extract
+1943532	Rhodiola sacra root extract
+1945027	highbush blueberry extract
+1945225	Phellodendron chinense whole extract
+1945226	Phryma leptostachya whole extract
+1945470	Cayaponia tayuya root extract
+1945471	Zeltnera venusta whole flowering extract
+1945838	Prunus persica flower bud extract
+1946395	Armoracia rusticana whole extract
+1946396	Cinnamomum verum whole extract
+1946553	Manihot esculenta whole extract
+1947406	Linum usitatissimum whole extract
+1947407	Bidens pilosa leaf extract
+1947410	Coenochloris signiensis extract
+1986435	Lippia alba whole extract
+1986786	Eutrochium purpureum whole extract
+1986792	Penicillium glaucum allergenic extract
+1987639	Acacia nilotica bark extract
+1987640	Manilkara obovata leaf extract
+1988387	Cissus quadrangularis whole extract
+1988404	Drimia indica bulb extract
+1988678	Leptospermum scoparium whole extract
+1989248	Acacia senegal whole extract
+1989331	Litchi chinensis whole extract
+1990420	Persicaria filiformis flowering top extract
+1990853	Populus tremuloides whole extract
+1990882	Rhodiola kirilowii root extract
+1991125	Leptospermum scoparium leaf extract
+1991256	Angelica anomala whole extract
+1991258	Magnolia liliiflora whole extract
+1991499	Foeniculum vulgare var. vulgare whole extract
+1991790	Piscidia piscipula whole extract
+1991791	Xanthium sibiricum whole extract
+1992036	Morinda citrifolia seed extract
+1992056	Bulbine frutescens whole extract
+1992057	Cymbopogon schoenanthus whole extract
+1992075	Michelia champaca flower extract
+1992280	Chrysanthemum indicum top extract
+1992412	papaya extract
+1992522	Copernicia alba whole extract
+1992540	muscadine grape extract
+1992541	Pancratium maritimum whole extract
+1992542	Phoenix dactylifera whole extract
+1992543	Polygonum aviculare whole extract
+1992670	Alnus glutinosa leaf extract
+1992861	Juniperus communis var. saxatilis fruit extract
+1992862	Calendula arvensis whole extract
+1993210	house mouse hair extract
+1993211	Bromus secalinus top extract
+1993213	Quercus spp. whole extract
+1993214	Betula pedula whole extract
+1993233	Iris germanica var. florentina root extract
+1994294	Agrimonia eupatoria leaf extract
+1994296	Xanthium sibiricum fruit extract
+1994298	Conium maculatum leaf extract
+1994299	Globularia cordifolia whole extract
+1994302	Lobelia inflata leaf extract
+1995249	sawtooth oak whole extract
+1995250	Solanum dulcamara whole extract
+1995251	Anthemis arvensis flowering top extract
+1995252	Myristica fragrans fruit extract
+1995487	Eupatorium cannabinum whole extract
+1995615	Capsicum frutescens whole extract
+1996102	golden chain pollen extract
+1996103	Arctium minus root extract
+1996979	Agave americana extract
+1996979	Agave americana whole extract
+1996983	white sweetclover top extract
+1996984	red mulberry whole extract
+1996985	Nandina domestica whole extract
+1996986	large white petunia whole extract
+1996990	Rhaponticum carthamoides root extract
+1996991	Rheum rhaponticum root extract
+1996993	redwood whole extract
+1997155	Rumex obtusifolius root extract
+1997187	American lobster allergenic extract
+1997243	Camellia reticulata whole extract
+1997455	Spiranthes spiralis root extract
+1998444	Saposhinikovia divaricata whole extract
+1998612	Crataegus mexicana whole extract
+1998613	Drimia maritima whole extract
+1998614	Kalmia latifolia whole extract
+1998615	Strophanthus hispidus whole extract
+1998616	Prunus laurocerasus whole extract
+1998719	Andrographis paniculata top extract
+1998848	Malva neglecta whole extract
+1999191	Larrea divaricata whole extract
+1999192	Prunus dulcis whole extract
+1999193	Smilax ornata whole extract
+1999194	Trifolium pratense whole extract
+1999320	Typhonium giganteum whole extract
+1999322	Pseudolarix amabilis whole extract
+1999323	Plumeria alba flower extract
+1999472	Buddleja officinalis flower extract
+1999662	Alnus glutinosa whole extract
+1999674	Helleborus niger whole extract
+1999725	Rhododendron aureum whole extract
+1999726	Toxicodendron pubescens whole extract
+1999793	Corallium rubrum whole extract
+1999794	Datura stramonium whole extract
+1999795	Lathyrus sativus whole extract
+1999995	Clematis recta whole extract
+2000544	Rubus idaeus subsp. strigosus whole extract
+2000574	Abronia frangrans flower extract
+2000993	Maclura tricuspidata bark extract
+2001130	Gardenia cornuta whole extract
+2001172	Artemisia annua whole extract
+2001173	Combretum micranthum whole extract
+2001175	Houttuynia cordata top extract
+2001177	Salicornia depressa whole extract
+2001178	Rubus fruticosus whole extract
+2001179	Asparagus cochinchinensis whole extract
+2001180	Corydalis turtschaninovii whole extract
+2001182	Saussurea involucrata flowering top extract
+2001193	Fragaria chiloensis whole extract
+2001194	Pinus pinaster wood extract
+2001195	Mesembryanthemum tortuosum whole extract
+2001196	Lavandula x intermedia flower extract
+2001197	Brassica oleracea var. gemmifera whole extract
+2001198	Prunella vulgaris extract
+2001235	Butea superba root extract
+2001237	Curculigo orchioides root extract
+2001239	Eurycoma longifolia root extract
+2001494	Astragalus mongholicus root extract
+2001614	Aronia arbutifolia whole extract
+2001615	Chicory leaf extract
+2001618	Sparassis crispa whole extract
+2001678	Physostigma venenosum whole extract
+2001757	Conium maculatum whole extract
+2001811	Agathosma crenulata whole extract
+2001813	Caesalpinia bonduc whole extract
+2001814	Inonotus obliquus whole extract
+2001815	Trifolium repens whole extract
+2001816	Viburnum opulus whole extract
+2001988	Eleutherococcus senticosus whole extract
+2002063	Androctonus australis whole extract
+2002064	Bufo bufo whole extract
+2002575	Cannabis sativa pollen extract
+2002576	Albuca bracteata whole extract
+2002714	Ulex europaeus whole extract
+2002715	Malus pumila whole extract
+2002791	Rosa alba flower oil extract
+2003227	Carpinus betulus whole extract
+2003231	Pterocarpus soyauxii wood extract
+2003323	Calluna vulgaris whole extract
+2003324	Ilex aquifolium whole extract
+2003474	Hottonia palustris whole extract
+2003582	Tanacetum vulgare flower extract
+2043268	Quercus garryana whole extract
+2043270	Quercus kelloggii whole extract
+2043271	Quercus velutina whole extract
+2043272	Quercus agrifolia whole extract
+2043274	Artemisia mongolica leaf extract
+2043275	Alnus serrulata pollen extract
+2043285	Harpagophytum procumbens whole extract
+2043449	Cladosporium bruhnei extract
+2043450	Gibberella fujikuroi extract
+2043451	Grindelia ciliata pollen extract
+2044340	Ceiba pentandra seed extract
+2044792	rhubarb extract (as anthraquinone derivatives)
+2045113	white currant fruit extract
+2045372	Pilocarpus jaborandii whole extract
+2045729	Murraya paniculata whole extract
+2045730	Flemingia macrophylla root extract
+2045731	Cynoglossum lanceolatum whole extract
+2045733	Pittosporum pentandrum whole extract
+2045734	Rubia cordifolia whole extract
+2045943	Caesalpinia spinosa whole extract
+2046113	Clinopodium chinense whole extract
+2046115	Cytisus scoparius whole extract
+2047171	Arnebia euchroma root extract
+2047350	Arnica cordifolia whole extract
+2047647	Helleborus extract
+2048033	Cannabis sativa whole extract
+2048035	Picea mariana whole extract
+2048036	mountain pepper whole extract
+2048119	Tinospora cordifolia whole extract
+2048120	Terminalia chebula whole extract
+2048121	Sapindus mukorossi whole extract
+2048122	Murraya koenigii whole extract
+2048123	Hibiscus rosa-sinensis whole extract
+2048125	Graptophyllum pictum whole extract
+2048126	Cuscuta reflexa extract
+2048127	Cullen corylifolium seed extract
+2048128	Chrysopogon zizanioides whole extract
+2048129	Berberis lycium whole extract
+2048130	Abelmoschus moschatus whole extract
+2048588	cannabidiol (CBD) extract
+2048595	Eurycoma longifolia extract
+2048881	Agathosma crenulata leaf extract
+2049224	Umbilicus rupestris extract
+2049548	Zanthoxylum schinifolium fruit extract
+2049718	Cornus rugosa whole extract
+2049894	Northern bluefin tuna allergenic extract
+2049986	Passiflora edulis whole extract
+2050978	Coptis japonica whole extract
+2050979	Robinia pseudoacacia flower extract
+2052262	Ovis aries whole extract
+2052863	ivy gourd extract
+2053437	Cochlearia officinalis leaf extract
+2053438	Conium maculatum fruit extract
+2053439	Olea europaea flower bud extract
+2053440	Phytolacca octandra leaf extract
+2053441	Populus alba leaf extract
+2053442	Prunus dulcis flower extract
+2053444	Vincetoxicum atratum root extract
+2053489	Magnolia officinalis whole extract
+2054069	Cedrus libani whole extract
+2054070	Alnus viridis subsp. crispa leaf extract
+2054071	Acer campestre leaf bud extract
+2054072	Cercis siliquastrum whole extract
+2054073	Cornus sanguinea whole extract
+2054074	Carpinus betulus flower bud extract
+2054215	Corylus avellana flower bud extract
+2054265	Juniperus communis stem extract
+2054998	Ligustrum vulgare whole extract
+2055000	Quercus robur flower bud extract
+2055002	Plantanus orientalis whole extract
+2055003	Populus nigra leaf bud extract
+2055101	Aloe arborescens whole extract
+2055102	Loeselia mexicana whole extract
+2055268	Sinomenium acutum stem extract
+2055272	Alpinia officinarum whole extract
+2055273	Cinnamomum cassia twig extract
+2055274	Cuminum cyminum whole extract
+2055275	Dipsacus chinensis whole extract
+2055742	Tamarix gallica whole extract
+2055743	Sorbus domestica whole extract
+2055746	Sequoiadendron giganteum whole extract
+2055748	Ulmus glabra whole extract
+2055749	Viscum album stem extract
+2055750	Viburnum lantana flower bud extract
+2056132	Arctium lappa extract
+2056164	Barosma betulina extract
+2056188	Cabbage extract
+2056293	tetrahydrocannabinol (THC) extract
+2056714	Cranberry powder/extract
+2056717	Cymbopogon schoenanthus extract
+2056769	Fenugreek extract
+2056925	Capparis spinosa whole extract
+2057682	Orthosiphon aristatus whole extract
+2057801	Caesalpinia spinosa fruit pod extract
+2057909	black carpenter ant allergenic extract
+2057976	diluent for allergenic extracts no.1
+2058410	Spiraea ulmaria flower extract
+2058908	Lycium barbarum root bark extract
+2058909	Amomum testaceum seed extract
+2059104	Pecan extract
+2059171	Santalum spicatum whole extract
+2059231	Eucalyptus cinerea whole extract
+2099275	brussels sprout extract
+2099276	spinach extract
+2099292	Helichrysum gymnocephalum whole extract
+2099294	broccoli extract
+2099359	Lycopus europaeus whole extract
+2101007	Aspergillus amstelodami extract
+2101008	Gliocladium viride extract
+2101329	Eurotium amstelodami allergenic extract
+2101340	Gibberella fujikuroi allergenic extract
+2101353	Gliocladium viride allergenic extract
+2101419	Anacamptis morio flower extract
+2101422	Mucor circinelloides f. circinelloides allergenic extract
+2101473	Mucor circinelloides f. lusitanicus allergenic extract
+2101722	Fusarium oxysporum allergenic extract
+2102006	ox-eye daisy pollen extract
+2102029	Pyrethrum allergenic extract
+2102052	red clover pollen extract
+2102473	brazil nut whole allergenic extract
+2102474	Black sea bass allergenic extract
+2102475	channel catfish allergenic extract
+2102476	pumpkin whole allergenic extract
+2102477	field mushroom allergenic extract
+2102479	lettuce whole allergenic extract
+2102480	banana fruit allergenic extract
+2102481	northern brown shrimp allergenic extract
+2102483	rainbow trout allergenic extract
+2102486	Pacific ocean perch allergenic extract
+2102487	velvetleaf huckleberry allergenic extract
+2102488	yellowfin tuna allergenic extract
+2102723	Apium graveolens whole extract
+2102724	Asclepias incarnata root extract
+2102798	green english pea allergenic extract
+2102821	chocolate cacao bean allergenic extract
+2102844	white mustard seed allergenic extract
+2102921	Maranta arundiacea whole extract
+2102922	Fagonia arabica whole extract
+2103223	Southern flounder allergenic extract
+2103230	sea scallop allergenic extract
+2103236	brown rice allergenic extract
+2103241	northern quahog allergenic extract
+2103250	Eastern oyster allergenic extract
+2103289	Viola philippica whole extract
+2103290	Artemisia annua flowering top extract
+2103291	Aquilegia canadensis whole extract
+2103292	Codonopsis pilosula root extract
+2104183	Hippophae rhamnoides seed extract
+2104198	Baccharis sarothroides whole extract
+2104343	Cinchona pubescens whole extract
+2106260	Chrysanthellum indicum whole extract
+2106261	Datura ferox whole extract
+2106425	Viola japonica extract
+2106426	Scurrula parasitica top extract
+2106427	Salvia apiana leaf extract
+2106558	Curcuma kwangsiensis root extract
+2106559	Aquilaria sinensis wood extract
+2106738	Strophanthus kombe seed extract
+2106744	Jujube seed extract
+2106822	Curcuma phaeocaulis root extract
+2106823	Erythrina variegata bark extract
+2106824	Astragalus chinensis whole extract
+2106825	Gentiana crassicaulis whole extract
+2107059	Chaenomeles lagenaria fruit extract
+2107063	Taxillus chinensis top extract
+214355	Candida albicans allergenic extract
+214355	candida albicans extract
+21716	crataegus extract
+221053	adiastatic barley malt extract
+221111	ipecac extract
+235219	Digitalis leaf extract
+235375	malt extract
+235375	Malt extract
+235385	ovarian extract
+235514	pulsatilla extract
+235524	licorice root extract
+235611	trichinella extract
+235614	hymenoptera allergenic extract
+235615	rhus extracts
+235616	pollen extracts
+235618	mold extracts
+235619	insect extracts
+235800	senega root extract
+235848	liver extract (beef and pork)
+236105	poison oak extract
+236106	poison ivy extract
+236121	Echinacea angustifolia extract
+236173	common plantain leaf extract
+236238	burdock root extract
+236238	Burdock root extract
+236252	horse blood extract
+236253	deproteinized calf blood extract
+236279	devil's claw extract
+236307	marine algaes extract
+236319	leech extract (hirudin)
+236344	saw palmetto extract
+236344	Saw palmetto extract
+236361	Tilia extract
+236439	pancreas extract
+236439	Pancreas extract
+236494	boldo extract
+236535	porcine brain extract
+236583	mite extract
+236614	Butcher's broom extract
+236625	placenta extract
+236626	vegetable extract
+236640	giant goldenrod extract
+236640	golden rod extract
+236641	Capsella bursa-pastoris extract
+236662	meadowsweet extract
+236664	chaste tree extract
+236665	black cohosh extract
+236692	placenta extract,bovine
+236694	angelica root extract
+236704	testis extract,bovine
+236779	bile extract
+236802	damiana extract
+236802	Damiana extract
+236809	ginkgo biloba extract
+236809	Ginkgo biloba extract
+236934	witch hazel leaf extract
+236953	guarana extract
+236988	White bryony extract
+236992	chamomile flowers extract
+237003	cowslip extract
+237010	condurango fluid extract
+237016	calf spleen extract
+237017	moor extract
+237020	wild yam extract
+237020	Wild yam extract
+237041	snail,slug extract
+237061	euphorbia extract
+237116	grape seed extract
+248123	cat hair standardized allergenic extract
+253172	grape extract
+253193	Passiflora incarnata extract
+253206	valerian extract
+253206	valerian root extract
+258326	St. John's wort extract
+259261	chaste berry extract
+259265	ginkgo biloba leaf extract
+259266	Hops extract
+259266	Humulus lupulus extract
+259274	milk thistle (Silybum marianum) seed extract
+259276	pine bark extract
+259283	yucca extract
+259283	Yucca extract
+259314	black pepper extract
+259342	cayenne extract
+259355	kudzu root extract
+259366	eyebright extract
+259367	Veronicastrum virginicum root extract
+259380	verbena extract
+259380	Verbena extract
+259408	fungi extract, mixed
+259415	Echinacea angustifolia root extract
+259415	Echinacea angustifolia root, rhizome extract
+259436	dandelion root extract
+259436	Dandelion root extract
+259449	grapefruit seed extract
+259449	Grapefruit seed extract
+259460	Borage extract
+259470	Panax ginseng extract
+259471	Panax ginseng root extract
+259472	Siberian ginseng root extract
+259473	American ginseng root extract
+259504	red yeast rice extract
+259511	black cohosh root extract
+259511	Black cohosh root extract
+259512	kava root extract
+259513	Echinacea purpurea root extract
+259514	sweet clover extract
+259522	yeast extract
+260012	Salicin extract
+260012	willow bark extract
+260020	horse chestnut seed extract
+260025	Echinacea purpurea extract
+260039	sangre de grado extract
+260040	Evening primrose extract
+262263	skullcap extract
+26346	gugulu extract
+265576	California poppy extract
+265576	Eschscholzia californica extract
+265647	garlic extract
+265733	oregon grape extract
+266364	bearberry extract
+266443	parsley piert extract
+28116	kamala extract
+282470	damiana leaf extract
+283557	Drosera rotundifolia extract
+283567	green tea leaf extract
+283569	Gymnema silvestre extract
+283579	Milk thistle extract
+283583	Rhus toxicodendron extract
+283587	yucca root extract
+283674	Arnica flower extract
+283738	liver-spleen sheep extract
+283745	spruce fir extract
+283751	heart extract
+283752	heart extract, bovine
+283759	blue mussel extract
+283805	bean pod extract
+283830	gymnema extract
+283831	dunaliella salina algae extract
+283845	barrenwort extract
+284117	Andrographis paniculata extract
+284117	Andrographis paniculata leaf extract
+284153	milk thistle fruit extract
+285152	boneset extract
+285155	kelp extract
+285157	Matricaria recutita extract
+285159	passion flower extract
+285159	Passion flower extract
+285163	Bittersweet extract
+285193	red clover extract
+285193	red clover leaf extract
+285220	Chelidonium majus extract
+285222	Calendula officinalis extract
+285223	cat's claw (uncaria tomentosa) extract
+285228	kava extract
+285241	ginger extract
+285241	Ginger extract
+287513	Blue cohosh extract
+287515	soybean extract
+287515	Soybean extract
+307387	plum extract
+307387	Plum extract
+314324	Aspergillus terreus allergenic extract
+314394	horse epithelium allergenic extract
+314411	Chrysonilia sitophila allergenic extract
+314415	Mucor plumbeus allergenic extract
+314424	Penicillium notatum allergenic extract
+314443	Rhizopus arrhizus allergenic extract
+314455	silk allergenic extract
+314470	walnut allergenic extract
+314488	corn smut allergenic extract
+314517	belladonna leaf extract
+314674	Hyoscyamus extract
+314743	Nux Vomica extract
+314753	orris allergenic extract
+314896	wheat germ extract
+317609	stomach extract
+317688	cedar leaf extract
+317808	Elder extract
+317825	horse chestnut extract
+317857	Parsley extract
+318224	Flaxseed extract
+318340	aloe vera extract
+319779	Asafetida extract
+319780	Capsicum extract
+319781	Eucalyptus extract
+319804	ground ivy extract
+319812	Siberian ginseng extract
+319818	Astragalus extract
+319828	buckthorn extract
+319828	Buckthorn extract
+319836	drosera extract
+319837	gotu kola extract
+319839	maca extract
+325526	ginseng extract
+325527	cilantro extract
+328141	dong quai extract
+328141	dong quai root extract
+342940	pau d'arco extract
+343038	marigold extract
+349978	oat smut allergenic extract
+350141	saccharomyces cerevisiae allergenic extract
+350141	Saccharomyces cerevisiae allergenic extract
+350173	house fly allergenic extract
+350376	Sepia extract
+360375	fenugreek seed extract
+39918	zeaxanthin extract
+402550	food extracts
+403712	Morinda citrifolia extract
+407895	thyme leaf extract
+407901	Chinese peony root extract
+407908	muira puama extract
+407957	vanilla extract flavor
+407978	oregon grape root extract
+407986	common yarrow extract
+407987	ribwort plantain leaf extract
+407996	guarana seed extract
+407998	Pygeum africanum bark extract
+407999	brindal berry fruit extract
+407999	brindall berry extract
+408007	cat's claw bark extract
+408008	gotu kola leaf extract
+408036	acerola fruit extract
+408044	puncture vine fruit extract
+408047	strawberry extract
+408047	Strawberry extract
+408049	linden extract
+408061	juniper fruit extract
+408072	squill oxymel extract
+408114	golden seal extract
+408133	gentian root extract
+408135	betaine HCl-bromelains-ox bile extract
+408153	Salacia reticulata extract
+435309	damask rose flower extract
+435652	ashwagandha root extract
+435657	olive leaf extract
+435658	Oat extract
+435658	oats extract
+435663	Ammi visnaga seed extract
+435668	hawthorn fruit extract
+436157	three-leaf caper extract
+436161	buchu leaf extract
+436163	Tea Tree extract
+436166	olive extract
+436170	rosemary leaf extract
+436176	St. John's wort aerial parts extract
+436177	yerba mate leaf extract
+436196	artichoke extract
+436197	carqueja extract
+436199	horseradish root extract
+436200	brahmi extract
+436214	agrimony extract
+436222	St. John's wort flower extract
+436224	celery extract
+436233	javanese turmeric extract
+436245	marshmallow root extract
+436253	heart's ease flower extract
+436665	horse chestnut fruit extract
+436666	butcher's broom root extract
+436667	gotu kola seed extract
+436680	griffonia seed extract
+436698	buchu extract
+436700	tienchi ginseng root extract
+436703	brain extract
+436704	Tagetes extract
+436746	elderberry flower extract
+436747	parsley leaf extract
+436748	cedarwood extract
+436752	Asiatic dogwood fruit extract
+436753	embryo extract
+436765	marigold flower extract
+436773	Amur corktree bark extract
+436921	artichoke leaf extract
+436936	kidney extract
+436959	celandine extract
+438107	puncture vine extract
+446559	mustard seed extract
+451262	elecampane root extract
+451267	oak extract
+465953	Cat dander allergenic extract
+465953	Cat dander extract
+466034	casein extract
+466139	green pepper extract
+466149	rose hips extract
+466192	Aspergillus fumigatus allergenic extract
+466195	Botrytis cinerea allergenic extract
+466197	Chaetomium globosum allergenic extract
+466198	Cladosporium herbarum allergenic extract
+47295	bovine cartilage extract
+476173	cabbage leaf extract
+476239	bogbean extract
+476267	Echinacea angustifolia aerial parts extract
+476269	european goldenrod extract
+476320	fennel fruit extract
+476502	hops fruit extract
+476521	clivers extract
+476682	green tea leaf extract decaffeinated
+476685	grindelia camporum extract
+476772	annato extract
+476926	pau d'arco bark extract
+477008	sarsaparilla (ornata) root extract
+477053	cinnamon bark extract
+477071	Siberian milkwort bark extract
+477172	tomato fruit extract
+477189	saw palmetto fruit extract
+477531	Echinacea purpurea aerial parts extract
+479542	astragalus root extract
+485404	grape skin extract
+485517	Brassica alba extract
+485848	banaba leaf extract
+485853	senna leaf extract
+485858	Indian frankincense extract
+486274	magnolia bark extract
+486427	kola nut extract
+486435	sour jujube extract
+56084	schisandra extract
+56084	schisandra fruit extract
+577051	sour cherry extract
+577320	schizonepeta extract
+578315	hoodia gordonii extract
+578371	cowslip (Primula veris) root extract
+578377	polypodium leucotomos extract
+581550	Citrus Pectin extract
+597308	fo-ti root extract
+597657	perilla seed extract
+597689	piper longum fruit extract
+597737	skullcap root extract
+597753	cocoa fruit extract
+6085	juniper extract
+6085	Juniperus communis whole extract
+616546	white kidney bean extract
+629574	aromatic cascara fluid extract
+629605	filipendula rubra extract
+644178	sea parsley extract
+644186	sea whip extract
+644242	arabinogalactan extract
+644250	blue algae (Haslea ostrearia) extract
+644319	cucumber fruit extract
+644746	forsythia fruit extract
+6459	liver extract
+659476	green tea extract
+668317	cat pelt standardized allergenic extract
+668424	mistletoe (Viscum mali) extract
+668428	mistletoe (Viscum quercus) extract
+66869	cascara sagrada extract
+66869	cascara sagrada fluid extract
+670184	date seed extract
+670544	Sanguinaria canadensis root extract
+67257	Myrrh extract
+686643	allergenic extracts, non-pollens
+686645	Arabidopsis extract
+686681	evodia rutaecarpa fruit extract
+686704	raspberry seed extract
+692663	porcine bile extract
+704942	Levisticum officinale leaf extract
+705666	galangal root extract
+706846	epimedium koreanum extract
+730907	Vitis extract
+792353	belladonna alkaloids leaf extract
+806947	shea tree extract
+813859	rabbit allergenic extract
+81782	Shark cartilage extract
+82089	Ispaghula extract
+824332	chaste tree fruit extract
+824547	Acai extract
+8385	plant extracts
+848929	acai berry extract
+848981	dried bitter-orange peel extract
+849415	coffee extract (Coffea arabica)
+851732	Acacia pollen extract
+851736	coast maple pollen extract
+851740	box elder maple pollen extract
+851744	red maple pollen extract
+851866	silver maple pollen extract
+851870	redtop grass pollen extract
+851874	hard maple pollen extract
+851878	orchard grass pollen extract
+851882	sisal fiber allergenic extract
+851890	tree of heaven pollen extract
+851894	iodine bush pollen extract
+851898	sweet vernal grass pollen extract
+851902	tag alder pollen extract
+851906	Bermuda grass pollen extract
+851910	white alder pollen extract
+851914	red alder pollen extract
+851918	meadow fescue grass pollen extract
+851926	careless weed pollen extract
+851930	redroot pigweed pollen extract
+851934	western waterhemp pollen extract
+851938	false ragweed pollen extract
+851942	canyon ragweed pollen extract
+851949	cat skin extract
+851955	sandbur ragweed pollen extract
+851965	June grass pollen extract
+851969	rabbit bush pollen extract
+851981	desert ragweed pollen extract
+851985	western ragweed pollen extract
+851990	slender ragweed pollen extract
+851994	timothy grass pollen allergen extract
+851994	Timothy grass pollen extract
+851998	giant ragweed pollen extract
+852007	wormwood sage pollen extract
+852011	coast sage pollen extract
+852015	corn pollen extract
+852020	common sagebrush pollen extract
+852025	cocklebur pollen extract
+852029	mugwort sage pollen extract
+852046	nettle pollen extract
+852054	American elm pollen extract
+852062	tobacco leaf allergenic extract
+852070	linden pollen extract
+852074	wing scale pollen extract
+852079	dandelion pollen extract
+852087	shad scale pollen extract
+852091	hog epithelia extract
+852096	lens scale pollen extract
+852102	Aureobasidium pullulans var. pullutans allergenic extract
+852106	alkali blite pollen extract
+852114	cultivated oat pollen extract
+852118	Johnson grass smut pollen extract
+852124	fivehorn smotherweed pollen extract
+852128	Johnson grass smut allergenic extract
+852132	sugar beet pollen extract
+852136	Johnson grass pollen extract
+852140	pepper tree pollen extract
+852144	cherry birch pollen extract
+852148	river birch pollen extract
+852152	Greasewood pollen extract
+852158	Russian thistle pollen extract
+852162	black willow pollen extract
+852166	water birch pollen extract
+852170	Arroyo willow pollen extract
+852174	pussy willow pollen extract
+852178	gray birch pollen extract
+852193	white hickory pollen extract
+852197	grama grass pollen extract
+852205	mustard pollen extract
+852209	yellow dock pollen extract
+852213	sheep sorrel pollen extract
+852217	smooth brome pollen extract
+852221	shagbark hickory pollen extract
+852225	cheat grass pollen extract
+852229	Australian pine pollen extract
+852233	bottlebrush pollen extract
+852237	lambs quarters pollen extract
+852244	Canis lupus familiaris extract
+852252	domestic goat skin extract
+852256	cattle epithelium allergenic extract
+852256	domestic cow skin extract
+852260	black oak pollen extract
+852264	Cochliobolus lunatus allergenic extract
+852268	red oak pollen extract
+852272	pecan pollen extract
+852276	Gambels oak pollen extract
+852281	hazelnut pollen extract
+852294	white oak pollen extract
+852298	Guinea pig skin extract
+852302	coast live oak pollen extract
+852306	silver ragweed pollen extract
+852311	Puccinia striiformis allergenic extract
+852315	kapok tree fiber allergenic extract
+852320	mesquite pollen extract
+852324	hackberry pollen extract
+852329	salt grass pollen extract
+852339	aspen pollen extract
+852343	quackgrass pollen extract
+852348	Lombard poplar pollen extract
+852355	Fremont cottonwood pollen extract
+852359	palo verde pollen extract
+852363	eastern cottonwood pollen extract
+852367	Russian olive pollen extract
+852376	black cottonwood pollen extract
+852382	white poplar pollen extract
+852386	Eucalyptus globulus pollen extract
+852398	Cochliobolus sativus allergenic extract
+852404	Pleospora tarda allergenic extract
+852412	jute fiber allergenic extract
+852419	beech pollen extract
+852440	cotton seed allergenic extract
+852450	white ash pollen extract
+852466	Epicoccum nigrum allergenic extract
+852479	horse dander standardized allergenic extract
+852479	horse skin extract
+852491	green ash pollen extract
+852496	Arizona ash pollen extract
+852503	Haematonectria haematococca allergenic extract
+852509	sunflower pollen extract
+852514	velvet grass pollen extract
+852519	house dust allergenic extract
+852526	burrobrush pollen extract
+852532	rough marshelder pollen extract
+852539	poverty weed pollen extract
+852551	burweed marshelder pollen extract
+852561	California black walnut pollen extract
+852569	black walnut pollen extract
+852577	English walnut pollen extract
+852581	mountain cedar pollen extract
+852585	California juniper pollen extract
+852589	western juniper pollen extract
+852593	burning bush pollen extract
+852597	Utah juniper pollen extract
+852601	Rocky Mountain juniper pollen extract
+852605	Koelers grass pollen extract
+852609	red cedar pollen extract
+852613	winterfat pollen extract
+852617	karaya gum extract
+852622	privet pollen extract
+852627	sweet gum pollen extract
+852634	alfalfa pollen extract
+852653	european olive pollen extract
+852659	western wheatgrass pollen extract
+852663	Syrian hamster skin extract
+852669	white mulberry pollen extract
+852673	Bahia grass pollen extract
+852680	red mulberry pollen extract
+852687	Mucor racemosus allergenic extract
+852693	house mouse skin extract
+852693	mouse epithelium allergenic extract
+852697	canary grass pollen extract
+852704	date palm pollen extract
+852709	shortleaf pine pollen extract
+852716	yellow pine pollen extract
+852738	eastern white pine pollen extract
+852742	English plantain pollen extract
+852746	eastern sycamore pollen extract
+852750	western sycamore pollen extract
+852756	Pleospora betae allergenic extract
+852797	wheat smut allergenic extract
+852802	California scrub oak pollen extract
+852806	salt cedar pollen extract
+852814	Arizona cypress pollen extract
+852819	perennial rye grass pollen extract
+852834	Kentucky bluegrass pollen extract
+852839	hog skin extract
+852844	Chinese elm pollen extract
+853406	cottonseed extract
+854025	Canis lupus familiaris hair extract
+854082	Aspergillus niger var. niger extract
+854130	Penicillium chrysogenum var. chrysogenum allergenic extract
+860936	Epilobium angustifolium extract
+860963	pineapple fruit extract
+862453	barley allergenic extract
+862460	casein allergenic extract
+862461	cherry allergenic extract
+862475	goat milk allergenic extract
+862478	green bell pepper allergenic extract
+867142	prairie sagebrush pollen extract
+867198	Cladosporium cladosporioides extract
+867202	cladosporium sphaerospermum allergenic extract
+867202	Cladosporium sphaerospermum allergenic extract
+867218	dogfennel pollen extract
+867228	Fusarium oxysporum vasinfectum allergenic extract
+867232	Helminthosporium solani allergenic extract
+867260	southern bayberry pollen extract
+867274	neurospora intermedia allergenic extract
+867284	Phoma exigua var. exigua allergenic extract
+867297	plains cottonwood pollen extract
+867311	live oak pollen extract
+867315	rabbit epithelium allergenic extract
+867315	rabbit skin extract
+867321	Rhodotorula rubra allergenic extract
+867325	black locust pollen extract
+867341	fire ant allergenic extract
+867341	red imported fire ant allergenic extract
+867349	Stemphylium solani allergenic extract
+867353	queen palm pollen extract
+867357	Trichophyton mentagrophytes allergenic extract
+867361	wheat pollen extract
+867369	common cockleburr pollen extract
+8783	propolis (bee glue) extract
+880341	cocklebur extract
+882469	Pacific halibut allergenic extract
+882482	trout allergenic extract
+882485	goose allergenic extract
+882488	venison allergenic extract
+883414	turnip allergenic extract
+883442	Passalora fulva allergenic extract
+883459	pumpkin allergenic extract
+885750	southern ragweed pollen extract
+886637	dog flea allergenic extract
+886638	cat flea allergenic extract
+889548	cotton allergenic extract
+889591	mackerel allergenic extract
+889602	Northern pike allergenic extract
+889646	red snapper allergenic extract
+889669	smelt allergenic extract
+891502	Arabica coffee bean allergenic extract
+891514	brazil nut allergenic extract
+891611	coconut allergenic extract
+891633	hazelnut allergenic extract
+891637	kidney bean allergenic extract
+891641	lima bean allergenic extract
+891647	mung bean allergenic extract
+891652	nutmeg allergenic extract
+891658	peanut allergenic extract
+891658	peanut extract
+891668	soybean allergenic extract
+891676	string bean allergenic extract
+891687	English walnut allergenic extract
+891695	black walnut allergenic extract
+891721	cocoa bean allergenic extract
+891727	coffee bean allergenic extract
+891752	American chestnut allergenic extract
+891771	apple allergenic extract
+891776	artichoke allergenic extract
+891796	asparagus allergenic extract
+891830	banana allergenic extract
+891830	banana extract
+892181	bluefish allergenic extract
+892317	wine grape allergenic extract
+892332	pecan allergenic extract
+892332	pecan extract
+892338	Khuskia oryzae allergenic extract
+892360	angoumois grain moth allergenic extract
+892368	carrot allergenic extract
+892372	celery allergenic extract
+892484	strawberry allergenic extract
+892499	tomato allergenic extract
+892503	tuna allergenic extract
+892507	almond allergenic extract
+892507	almond extract
+892517	cantaloupe allergenic extract
+892517	cantaloupe extract
+892526	cashew nut allergenic extract
+892539	clam allergenic extract
+892543	codfish allergenic extract
+892547	corn allergenic extract
+892547	corn extract
+892561	lobster allergenic extract
+892565	orange allergenic extract
+892565	orange extract
+892569	pea allergenic extract
+892575	peach allergenic extract
+892584	salmon allergenic extract
+892592	shrimp allergenic extract
+892592	shrimp extract
+892599	beef allergenic extract
+892599	beef extract
+892604	casein (cow milk) allergenic extract
+892610	crab allergenic extract
+892610	crab extract
+892616	egg white (chicken) allergenic extract
+892616	egg white extract
+892620	egg yolk (chicken) allergenic extract
+892628	pork allergenic extract
+892628	pork extract
+892632	potato allergenic extract
+892638	rye allergenic extract
+892653	chicken allergenic extract
+892653	chicken meat extract
+892661	rice (whole grain) allergenic extract
+892665	cow milk allergenic extract
+892674	Baker's yeast allergenic extract
+892679	Brewer's yeast allergenic extract
+892734	California mugwort pollen extract
+892851	duck feather extract
+892851	duck feathers allergenic extract
+894750	para grass pollen extract
+894783	goose feather extract
+894783	goose feathers allergenic extract
+894795	grain mill dust allergenic extract
+894934	chicken feather extract
+894934	chicken feathers allergenic extract
+894961	canary feather extract
+894987	dog epithelium allergenic extract
+894987	dog skin extract
+895062	hamster skin extract
+895070	Mongolian gerbil skin allergenic extract
+895195	European rabbit skin extract
+895223	Acacia baileyana pollen extract
+895279	rat skin extract
+895353	Cootamundra wattle pollen extract
+895365	Sydney golden wattle pollen extract
+895385	sugar maple pollen extract
+895488	domestic cow hair extract
+895495	dog hair extract
+895495	dog hair standardized allergenic extract
+895503	domestic goat hair extract
+895507	guinea pig hair extract
+895515	horse hair extract
+895527	European rabbit hair extract
+895538	white-tailed deer hair extract
+895542	hog hair extract
+895552	allspice allergenic extract
+895574	apricot allergenic extract
+895582	avocado allergenic extract
+895582	avocado extract
+895588	red delicious apple allergenic extract
+895919	spiny pigweed pollen extract
+896135	short ragweed pollen extract
+896213	common wormwood pollen extract
+896246	dark leaved mugwort pollen extract
+89697	cocillana extract
+897304	Allscale pollen extract
+897316	saltbush pollen extract
+897332	groundsel pollen extract
+897391	Mexican tea pollen extract
+897403	orange pollen extract
+897499	Scotch broom pollen extract
+89781	belladonna extract
+89781	belladonna extract, USP
+89821	witch hazel extract
+898324	lodgepole pine pollen extract
+898404	annual bluegrass pollen extract
+899355	basil allergenic extract
+899359	sugar beet allergenic extract
+899363	black pepper allergenic extract
+899378	blackberry allergenic extract
+899382	blueberry allergenic extract
+899386	broccoli allergenic extract
+899390	brussels sprout allergenic extract
+899394	buckwheat allergenic extract
+899398	cabbage allergenic extract
+899414	garlic allergenic extract
+899420	ginger allergenic extract
+899424	grapefruit allergenic extract
+899428	haddock allergenic extract
+899434	herring allergenic extract
+899444	lentil allergenic extract
+899448	lettuce allergenic extract
+899452	mustard greens allergenic extract
+899456	mustard seed allergenic extract
+899466	onion allergenic extract
+899470	plum allergenic extract
+899476	honeydew melon allergenic extract
+899480	hops allergenic extract
+899490	black-eyed pea allergenic extract
+899550	yellow birch pollen extract
+899576	paper birch pollen extract
+899593	mulberry pollen extract
+899611	blue beech pollen extract
+899637	caraway seed allergenic extract
+899645	bitternut hickory pollen extract
+899650	pignut hickory pollen extract
+899661	cauliflower allergenic extract
+899673	cinnamon allergenic extract
+899724	clove allergenic extract
+899734	cranberry allergenic extract
+899738	cucumber allergenic extract
+899742	date allergenic extract
+899746	flounder allergenic extract
+899770	millet seed allergenic extract
+899873	paprika allergenic extract
+899877	parsley allergenic extract
+899883	pear allergenic extract
+899895	pineapple allergenic extract
+899906	raspberry allergenic extract
+899916	scallop allergenic extract
+900025	Atlantic cod allergenic extract
+900031	Atlantic salmon allergenic extract
+900045	Oregon ash pollen extract
+900108	oneseed juniper pollen extract
+900113	redberry juniper pollen extract
+900131	tamarack pollen extract
+900148	giant wild rye pollen extract
+900704	blue spruce pollen extract
+900731	slash pine pollen extract
+900743	western white pine pollen extract
+900750	Austrian pine pollen extract
+900754	red pine pollen extract
+900758	pitch pine pollen extract
+900764	Scotch pine pollen extract
+900770	loblolly pine pollen extract
+900777	Japanese black pine pollen extract
+900788	maple leaf sycamore pollen extract
+900987	Garrys oak pollen extract
+900991	bur oak pollen extract
+900995	chesnut oak pollen extract
+900999	pin oak pollen extract
+901011	post oak pollen extract
+901191	Concord grape allergenic extract
+901195	safflower seed allergenic extract
+901199	sesame seed allergenic extract
+901203	sunflower seed allergenic extract
+901258	watermelon allergenic extract
+901265	white fish allergenic extract
+901283	swordfish allergenic extract
+901291	vanilla bean allergenic extract
+901299	whole wheat allergenic extract
+901303	sweet cherry allergenic extract
+901307	sweet potato allergenic extract
+901313	spearmint allergenic extract
+901317	spinach allergenic extract
+901329	red bell pepper allergenic extract
+901337	rice allergenic extract
+901337	rice extract
+901346	tapioca starch allergenic extract
+901351	flaxseed allergenic extract
+901365	cumin allergenic extract
+901369	cultivated mushroom allergenic extract
+901382	lemon allergenic extract
+901390	common carp allergenic extract
+901845	Alternaria alternata allergenic extract
+902215	common cocklebur pollen extract
+903913	Broad leaved paperbark pollen extract
+904498	carob allergenic extract
+904507	egg (chicken) allergenic extract
+904507	egg extract
+904554	karaya gum allergenic extract
+904606	pistachio nut allergenic extract
+904606	pistachio nut extract
+904815	white seedless grape allergenic extract
+904859	barley (whole grain) allergenic extract
+905070	Acremonium strictum allergenic extract
+905088	Acrothecium robustum allergenic extract
+905258	American cockroach allergenic extract
+905276	German cockroach allergenic extract
+905301	Arabic gum allergenic extract
+90735	coal tar (as coal tar extract)
+90735	coal tar extract
+91264	malt soup extract
+91264	Malt soup extract
+91266	rhubarb root extract
+91413	Adrenal cortex extract
+91613	squill extract
+91613	Squill extract
+93644	Anas barbariae hepatis et cordis extractum
+966692	Algal fungi allergenic extract
+966696	orange pekoe tea allergenic extract
+966925	cotton fiber allergenic extract
+966943	Penicillium camemberti allergenic extract
+966979	Paecilomyces variotii allergenic extract
+966995	Phoma destructiva allergenic extract
+967033	Candida tropicalis allergenic extract
+967111	Penicillium expansum allergenic extract
+967529	Rhodotorula mucilaginosa allergenic extract
+967721	Rhizopus stolonifer allergenic extract
+967921	house fly extract
+967960	Penicillium italicum allergenic extract
+967970	Pyrethrum cinerariifolium allergenic extract
+968114	Phanerodontia chrysosporium allergenic extract
+968123	Stachybotrys chartarum allergenic extract
+968130	Stemphylium sarciniforme allergenic extract
+968184	Trichoderma harzianam extract
+968197	Trichoderma harzianum allergenic extract
+968401	Trichoderma viride allergenic extract
+968413	Trichophyton rubrum allergenic extract
+968422	Trichophyton schoenleinii allergenic extract
+968426	Trichothecium roseum allergenic extract
+968437	loose wheat smut allergenic extract
+968467	Verticillium albo-atrum allergenic extract
+968475	loose oat smut extract
+968492	loose barley smut allergenic extract
+968498	tea leaf extract
+968502	Tetracoccosporium paxianum allergenic extract
+968506	Syncephalastrum racemosum allergenic extract
+969119	Echinacea pallida root extract
+969139	hawthorn flower extract
+971166	white catfish allergenic extract
+971198	Pleospora herbarum allergenic extract
+971379	green olive allergenic extract
+971849	lamb allergenic extract
+971932	oat allergenic extract
+972037	duck allergenic extract
+972365	Penicillium roquefortii allergenic extract
+972480	red currant allergenic extract
+972601	eggplant allergenic extract
+972689	Allergenic extract- beef liver
+972689	beef liver allergenic extract
+973274	oyster allergenic extract
+973447	cricket allergenic extract
+973880	fig allergenic extract
+974129	sardine allergenic extract
+974140	English sole allergenic extract
+974527	thyme allergenic extract
+974650	black olive allergenic extract
+974687	radish allergenic extract
+974741	mosquito allergenic extract
+975119	turkey allergenic extract
+975509	squash allergenic extract
+975763	dill allergenic extract
+975996	Phoma glomerata allergenic extract
+976711	perch allergenic extract
+992917	Baptisia tinctoria extract
+995600	rough cocklebur pollen extract
+995699	cochliobolus spicifer allergenic extract
+995703	dendryphiella vinosa allergenic extract
+995707	epidermophyton floccosum allergenic extract
+995720	Cladosoprium cladosporioides allergenic extract
+995727	Lichtheimia corymbifera allergenic extract
+995738	black imported fire ant allergenic extract
+995743	Canada goldenrod pollen extract
+995747	bald cypress pollen extract
+995754	American basswood pollen extract
+995768	Cladosporium cladosporioides allergenic extract
+999384	Aspergillus flavus allergenic extract
+999408	Aspergillus terreus extract
+999438	Curvularia allergenic extract
+999438	Curvularia inequalis allergenic extract
+999450	Eurotium herbariorum allergenic extract
+999457	Fusarium compactum allergenic extract
+999463	Geotrichum candidum allergenic extract
+999487	Puccinia graminis allergenic extract

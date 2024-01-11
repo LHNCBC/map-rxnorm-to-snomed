@@ -1,0 +1,129 @@
+164957	Auto-Injector	ML
+85808	Buccal Film	EACH
+97078	Buccal Tablet	EACH
+164957	Cartridge	ML
+226957	Chewable Extended Release Oral Tablet	EACH
+
+#RWW: This is where I failed via the REST API
+# /allconcepts returns ONLY Active, and 1 drug product related to 'Chewable Bar' is Obsolete
+#The curl-Perl approach loses.
+#
+#It would still be nice to have an allRelated to a DF cui! (minimal information)
+
+9105	Chewable Tablet	EACH
+40249	Chewing Gum	EACH
+31699	Delayed Release Oral Capsule	EACH
+228429	Delayed Release Oral Granules	EACH
+1031	Delayed Release Oral Tablet	EACH
+31694	Disintegrating Oral Tablet	EACH
+47917	Douche	EACH
+65771	Drug Implant	ML
+260377	Drug-Eluting Contact Lens	EACH
+74499	Dry Powder Inhaler	EACH
+153572	Effervescent Oral Tablet	ACTUAT
+31767	Enema	EACH
+31694	Extended Release Oral Capsule	ML
+31694	Extended Release Oral Tablet	EACH
+31694	Extended Release Suspension	EACH
+31699	Gas for Inhalation	ML
+154045	Granules for Oral Solution	EACH
+154045	Granules for Oral Suspension	EACH
+31700	Inhalation Powder	EACH
+34616	Inhalation Solution	EACH
+228428	Inhalation Spray	ML
+210794	Inhalation Suspension	ACTUAT
+148492	Injectable Foam	ML
+31694	Injectable Solution	ML
+31695	Injectable Suspension	ML
+164957	Injection	ML
+31695	Intraperitoneal Solution	ML
+173287	Intratracheal Suspension	ML
+185627	Intrauterine System	ML
+15290	Irrigation Solution	ML
+164957	Jet Injector	ML
+31695	Medicated Bar Soap	MG
+31695	Medicated Liquid Soap	ML
+79727	Medicated Pad	ML
+179283	Medicated Patch	MG
+10633	Medicated Shampoo	ML
+79768	Medicated Tape	SQCM
+72165	Metered Dose Inhaler	ACTUAT
+179783	Metered Dose Nasal Spray	ACTUAT
+706	Mouthwash	ML
+34616	Mucosal Spray	ML
+31695	Mucous Membrane Topical Solution	ML
+31696	Nasal Gel	MG
+31695	Nasal Inhalant	ACTUAT
+31696	Nasal Ointment	MG
+173932	Nasal Powder	EACH
+31696	Nasal Solution	ML
+12654	Nasal Spray	ML
+31754	Ophthalmic Cream	ACTUAT
+31696	Ophthalmic Gel	ML
+24428	Ophthalmic Irrigation Solution	MG
+9134	Ophthalmic Ointment	ML
+767	Ophthalmic Solution	MG
+31696	Ophthalmic Suspension	ML
+31696	Oral Capsule	ML
+31696	Oral Cream	EACH
+226957	Oral Film	ML
+31694	Oral Flakes	EACH
+34628	Oral Foam	EACH
+34616	Oral Gel	ML
+31769	Oral Granules	MG
+31699	Oral Lozenge	EACH
+34628	Oral Ointment	EACH
+34617	Oral Paste	MG
+31769	Oral Pellet	MG
+34628	Oral Powder	EACH
+31696	Oral Solution	EACH
+34616	Oral Spray	ML
+31696	Oral Suspension	ML
+31754	Oral Tablet	ML
+31698	Oral Wafer	EACH
+31697	Otic Ointment	EACH
+31697	Otic Solution	MG
+31697	Otic Suspension	ML
+74683	Pack	ML
+40249	Paste	MG
+164957	Pen Injector	ML
+154045	Powder for Nasal Solution	MG
+154045	Powder for Oral Solution	EACH
+154045	Powder for Oral Suspension	EACH
+237572	Powder for Pyelocalyceal Solution	EACH
+31700	Powder Spray	EACH
+72165	Prefilled Syringe	ML
+31697	Rectal Cream	ML
+31754	Rectal Foam	ML
+34617	Rectal Gel	MG
+31700	Rectal Ointment	MG
+31700	Rectal Solution	ML
+31697	Rectal Spray	ML
+31697	Rectal Suppository	EACH
+226957	Sublingual Film	EACH
+181068	Sublingual Powder	EACH
+31700	Sublingual Tablet	EACH
+31698	Sustained Release Buccal Tablet	EACH
+186140	Tablet for Oral Suspension	EACH
+1065	Toothpaste	MG
+31698	Topical Cream	ML
+34628	Topical Foam	ML
+34628	Topical Gel	MG
+178882	Topical Liquefied Gas	EACH
+31698	Topical Lotion	ML
+31698	Topical Oil	ML
+31698	Topical Ointment	MG
+31700	Topical Powder	MG
+31698	Topical Solution	ML
+34616	Topical Spray	ML
+164935	Topical Suspension	EACH
+31698	Transdermal System	ACTUAT
+31754	Urethral Suppository	MG
+1110	Vaginal Cream	EACH
+178881	Vaginal Film	ML
+1110	Vaginal Foam	EACH
+1110	Vaginal Gel	ML
+210795	Vaginal Insert	MG
+31701	Vaginal Ointment	EACH
+217319	Vaginal Sponge	MG
+219922	Vaginal System	EACH

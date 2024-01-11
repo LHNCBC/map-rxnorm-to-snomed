@@ -1,0 +1,89 @@
+1649570	Auto-Injector	ML	385219001	Conventional release solution for injection (dose form)			C
+858080	Buccal Film	EACH	443424002	Conventional release buccal film (dose form)	732995004	Film (unit of presentation)	P
+970789	Buccal Tablet	EACH	385085006	Conventional release buccal tablet (dose form)	732936001	Tablet (unit of presentation)	P
+1649572	Cartridge	ML	385223009	Powder for conventional release solution for injection (dose form)	732988008	Cartridge (unit of presentation)	P
+91058	Chewable Tablet	EACH	66076007	Conventional release chewable tablet (dose form)	732936001	Tablet (unit of presentation)	P
+402499	Chewing Gum	EACH	385063000	Prolonged-release oral gum (dose form)	732989000	Chewing gum (unit of presentation)	P
+316995	Delayed Release Oral Capsule	EACH	385052003	Gastro-resistant oral capsule (dose form)	732937005	Capsule (unit of presentation)	P
+10312	Delayed Release Oral Tablet	EACH	385059007	Gastro-resistant oral tablet (dose form)	732936001	Tablet (unit of presentation)	P
+316942	Disintegrating Oral Tablet	EACH	447079001	Conventional release orodispersible tablet (dose form)	732936001	Tablet (unit of presentation)	P
+657710	Drug Implant	EACH	764296002	Prolonged-release subcutaneous implant (dose form)	732996003	Implant (unit of presentation)	P
+1535727	Effervescent Oral Tablet	EACH	764780001	Conventional release effervescent oral tablet (dose form)	732936001	Tablet (unit of presentation)	P
+317678	Enema	ML	385188006	Conventional release rectal suspension (dose form)			C
+316943	Extended Release Oral Capsule	EACH	385053008	Prolonged-release oral capsule (dose form)	732937005	Capsule (unit of presentation)	P
+316945	Extended Release Oral Tablet	EACH	385060002	Prolonged-release oral tablet (dose form)	732936001	Tablet (unit of presentation)	P
+316946	Extended Release Suspension	ML	422353003	Prolonged-release oral suspension (dose form)			C
+316999	Gas for Inhalation	EACH	385217004	Conventional release gas for inhalation (dose form)			C
+1540454	Granules for Oral Suspension	EACH	385029002	Granules for conventional release oral suspension (dose form)	733013000	Sachet (unit of presentation)	P
+317000	Inhalation Powder	EACH	385207009	Conventional release powder for inhalation (dose form)	732981002	Actuation (unit of presentation)	P
+346161	Inhalation Solution	ML	420641004	Conventional release solution for inhalation (dose form)			C
+316949	Injectable Solution	ML	385219001	Conventional release solution for injection (dose form)			C
+316950	Injectable Suspension	ML	385220007	Conventional release suspension for injection (dose form)			C
+1649574	Injection	ML	385223009	Powder for conventional release solution for injection (dose form)	733026001	Vial (unit of presentation)	P
+1732876	Intratracheal Suspension	ML	385250004	Conventional release suspension for endotracheopulmonary instillation (dose form)			C
+1856271	Intrauterine System	HR	1237073006	Prolonged-release intrauterine delivery system (dose form)			C
+152903	Irrigation Solution	ML	785898006	Conventional release solution for irrigation (dose form)			C
+316955	Medicated Liquid Soap	ML	421628006	Conventional release cutaneous cream (dose form)			C
+1792831	Medicated Patch	MG	764485007	Conventional release cutaneous patch (dose form)			C
+106332	Medicated Shampoo	ML	785908001	Conventional release cutaneous shampoo (dose form)			C
+721654	Metered Dose Inhaler	ACTUAT	385204002	Pressurized conventional release solution for inhalation (dose form)	732981002	Actuation (unit of presentation)	P
+1797831	Metered Dose Nasal Spray	ACTUAT	385157007	Conventional release nasal spray (dose form)	732981002	Actuation (unit of presentation)	P
+7067	Mouthwash	ML	385070000	Conventional release oromucosal solution (dose form)			C
+346163	Mucosal Spray	ML	385074009	Conventional release sublingual spray (dose form)	732981002	Actuation (unit of presentation)	P
+316956	Mucous Membrane Topical Solution	ML	385108009	Conventional release cutaneous solution (dose form)			C
+316960	Nasal Gel	MG	385150009	Conventional release nasal gel (dose form)			C
+316961	Nasal Ointment	MG	385151008	Conventional release nasal ointment (dose form)			C
+316962	Nasal Solution	ML	422336005	Conventional release nasal solution (dose form)			C
+126542	Nasal Spray	ML	385157007	Conventional release nasal spray (dose form)	732981002	Actuation (unit of presentation)	P
+317544	Ophthalmic Cream	ML	421628006	Conventional release cutaneous cream (dose form)			C
+316963	Ophthalmic Gel	MG	385122009	Conventional release eye gel (dose form)			C
+244286	Ophthalmic Irrigation Solution	ML	785899003	Conventional release ocular solution for irrigation (dose form)			C
+91344	Ophthalmic Ointment	MG	385123004	Conventional release eye ointment (dose form)			C
+7670	Ophthalmic Solution	ML	385124005	Conventional release eye drops (dose form)			C
+#2637984	Ophthalmic Spray	ML	?????
+316964	Ophthalmic Suspension	ML	420736004	Conventional release eye suspension (dose form)			C
+316965	Oral Capsule	EACH	420692007	Conventional release oral capsule (dose form)	732937005	Capsule (unit of presentation)	P
+2269575	Oral Film	EACH	447050008	Conventional release orodispersible film (dose form)	732995004	Film (unit of presentation)	P
+346284	Oral Foam	ML	764787003	Conventional release oropharyngeal foam (dose form)			C
+346169	Oral Gel	MG	385038000	Conventional release oral gel (dose form)			C
+317690	Oral Granules	EACH	420509004	Conventional release oral granules (dose form)			P
+316992	Oral Lozenge	EACH	764501003	Conventional release oromucosal lozenge (dose form)	733000006	Lozenge (unit of presentation)	P
+346171	Oral Paste	MG	385039008	Conventional release oral paste (dose form)			C
+317691	Oral Pellet	EACH	420692007	Conventional release oral capsule (dose form)	732937005	Capsule (unit of presentation)	P
+346289	Oral Powder	EACH	385041009	Conventional release oral powder (dose form)			C
+316968	Oral Solution	ML	385023001	Conventional release oral solution (dose form)			C
+346164	Oral Spray	ML	385073003	Conventional release oromucosal spray (dose form)			C
+316969	Oral Suspension	ML	385024007	Conventional release oral suspension (dose form)			C
+317541	Oral Tablet	EACH	421026006	Conventional release oral tablet (dose form)	732936001	Tablet (unit of presentation)	P
+316973	Otic Solution	ML	421713001	Conventional release ear solution (dose form)			C
+316974	Otic Suspension	ML	385136004	Conventional release ear drops (dose form)			C
+402496	Paste	MG	385102005	Conventional release cutaneous paste (dose form)			C
+1649571	Pen Injector	ML	385223009	Powder for conventional release solution for injection (dose form)	733006000	Pen (unit of presentation)	P
+1540455	Powder for Oral Solution	EACH	385026009	Powder for conventional release oral solution (dose form)	733013000	Sachet (unit of presentation)	P
+1540456	Powder for Oral Suspension	EACH	385027000	Powder for conventional release oral suspension (dose form)	733013000	Sachet (unit of presentation)	P
+317004	Powder Spray	ML	385278003	Conventional release powder for cutaneous spray (dose form)			C
+721656	Prefilled Syringe	ML	385223009	Powder for conventional release solution for injection (dose form)	733020007	Syringe (unit of presentation)	C
+317542	Rectal Foam	ML	385185009	Conventional release rectal foam (dose form)			C
+317005	Rectal Ointment	MG	385184008	Conventional release rectal ointment (dose form)			C
+316978	Rectal Suppository	EACH	420929008	Conventional release rectal suppository (dose form)	733019001	Suppository (unit of presentation)	P
+317007	Sublingual Tablet	EACH	385084005	Conventional release sublingual tablet (dose form)	732936001	Tablet (unit of presentation)	P
+316980	Sustained Release Buccal Tablet	EACH	421620004	Prolonged-release buccal tablet (dose form)	732936001	Tablet (unit of presentation)	P
+1861409	Tablet for Oral Suspension	EACH	421366001	Tablet for conventional release oral suspension (dose form)	732936001	Tablet (unit of presentation)	P
+10652	Toothpaste	MG	763445009	Conventional release dental paste (dose form)			C
+316982	Topical Cream	ML	421628006	Conventional release cutaneous cream (dose form)			C
+346285	Topical Foam	ML	385103000	Conventional release cutaneous foam (dose form)			C
+346286	Topical Gel	MG	421949005	Conventional release cutaneous gel (dose form)			C
+316983	Topical Lotion	ML	762065001	Conventional release cutaneous lotion (dose form)			C
+316984	Topical Oil	ML	420540006	Conventional release cutaneous oil (dose form)			C
+316985	Topical Ointment	MG	425753008	Conventional release cutaneous ointment (dose form)			C
+317009	Topical Powder	MG	385112003	Conventional release cutaneous powder (dose form)			C
+316986	Topical Solution	ML	385108009	Conventional release cutaneous solution (dose form)			C
+346165	Topical Spray	ML	385105007	Conventional release cutaneous spray (dose form)			C
+316987	Transdermal System	ACTUAT	385114002	Prolonged-release transdermal patch (dose form)			C
+317543	Urethral Suppository	EACH	385246006	Conventional release urethral stick (dose form)	733016008	Stick (unit of presentation)	P
+11103	Vaginal Cream	ML	385165005	Conventional release vaginal cream (dose form)			C
+11107	Vaginal Foam	ML	385168007	Conventional release vaginal foam (dose form)			C
+11108	Vaginal Gel	MG	385166006	Conventional release vaginal gel (dose form)			C
+2107950	Vaginal Insert	EACH	767059009	Conventional release vaginal pessary (dose form)	733007009	Pessary (unit of presentation)	P
+317010	Vaginal Ointment	MG	385167002	Conventional release vaginal ointment (dose form)			C
+2199220	Vaginal System	HR	764772008	Prolonged-release vaginal ring (dose form)			C

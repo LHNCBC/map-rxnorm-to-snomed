@@ -37,7 +37,7 @@ $ cd preprocessing
 $ perl convert-from-datahasvalue.pl /absolute/uri/to/snomed-ct-in.owl /absolute/uri/to/output-numbersAsClasses.owl
 $ cd ..
 $ cp target/MapRxNormToSnomed-0.4.0-SNAPSHOT-jar-with-dependencies.jar .
-$ java -jar -Xmx15000m MapRxNormToSnomed-0.4.0-SNAPSHOT-jar-with-dependencies.jar /absolute/uri/to/snomed-ct-in.owl /absolute/uri/to/output-numbersAsClasses.owl
+$ java -Xmx15000m -jar MapRxNormToSnomed-0.4.0-SNAPSHOT-jar-with-dependencies.jar /absolute/uri/to/snomed-ct-in.owl /absolute/uri/to/output-numbersAsClasses.owl
 ```
 
 Many messages will display to standard out including Reasoner INFO logs that cannot be suppressed.
